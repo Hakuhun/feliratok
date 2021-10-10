@@ -6,30 +6,35 @@ ScriptType: v4.00+
 PlayDepth: 0
 WrapStyle: 0
 ScaledBorderAndShadow: yes
-PlayResX: 640
-PlayResY: 360
+PlayResX: 1920
+PlayResY: 1080
+YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Video Zoom Percent: 0.750000
-Scroll Position: 190
-Active Line: 211
-Video Position: 34237
+Audio File: ../../anime/series/Mieruko-chan/[SubsPlease] Mieruko-chan - 01 (1080p) [14156DDC].mkv
+Video File: ../../anime/series/Mieruko-chan/[SubsPlease] Mieruko-chan - 01 (1080p) [14156DDC].mkv
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
+Scroll Position: 142
+Active Line: 180
+Video Position: 15543
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0.1,2,20,20,35,1
+Style: Default,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,4.5,0.3,2,60,60,105,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:50.12,0:01:00.12,Default,,0,0,0,,{\an8}Feliratot készítette: Haku \Nhakuhun@gmail.com
-Dialogue: 0,0:00:50.12,0:01:00.12,Default,,0,0,0,,{\fnArial\fs14}Mielőtt felhasználnád a fordítást vedd fel velem a kapcsolatot, különben szomi leszek. UwU
+Dialogue: 0,0:00:50.12,0:01:00.12,Default,,0,0,0,,{\fnArial\fs42}Mielőtt felhasználnád a fordítást vedd fel velem a kapcsolatot, különben szomi leszek. UwU
 Dialogue: 0,0:01:04.14,0:01:06.19,Default,,0,0,0,,Miért? Miért nem..
 Dialogue: 0,0:02:05.58,0:02:11.84,Default,,0,0,0,,{\an8}"IGAZÁN félelmetes történetek"
 Dialogue: 0,0:02:05.58,0:02:11.84,Default,,0,0,0,,Igeen, ez tényleg félelmetes volt! Komolyan\Nborsódzik tőle a hátam, annyira ijesztő!
 Dialogue: 0,0:02:12.34,0:02:14.05,Default,,0,0,0,,Mit gondolsz, Hitoe-chan?
 Dialogue: 0,0:02:14.05,0:02:17.59,Default,,0,0,0,,Mit tennél, ha egy ilyen félelmetes\N valamire bukkannál?
-Dialogue: 0,0:02:17.59,0:02:24.18,Default,,0,0,0,,Nem is tudom... Megpróbálnám ignorálni...
+Dialogue: 0,0:02:17.59,0:02:24.18,Default,,0,0,0,,Nem is tudom... Megpróbálnám észre se venni...
 Dialogue: 0,0:02:24.18,0:02:26.73,Default,,0,0,0,,vagy Buddhista mantrákba kezdenék.
 Dialogue: 0,0:02:26.73,0:02:30.06,Default,,0,0,0,,Mm-hmm, mm-hmm,\Nezek a leggyakoribb válaszok.
 Dialogue: 0,0:02:30.06,0:02:35.03,Default,,0,0,0,,Talán még sóval is körbe hinteném, vagy imafüzért használnék.
@@ -41,7 +46,7 @@ Dialogue: 0,0:02:38.45,0:02:39.53,Default,,0,0,0,,Elég jól ismered a lehetős�
 Dialogue: 0,0:02:39.53,0:02:40.95,Default,,0,0,0,,{\an8}"KIRÁLY!"
 Dialogue: 0,0:02:39.53,0:02:40.95,Default,,0,0,0,,Elég jól ismered a lehetőségeidet.
 Dialogue: 0,0:02:40.95,0:02:42.12,Default,,0,0,0,,Elég jól ismered a lehetőségeidet.
-Dialogue: 0,0:02:42.12,0:02:44.62,Default,,0,0,0,,Esetleg történt már veled ilyen ilyesztő paranormális dolog?
+Dialogue: 0,0:02:42.12,0:02:44.62,Default,,0,0,0,,Esetleg történt már veled ilyen ijesztő paranormális dolog?
 Dialogue: 0,0:02:44.62,0:02:46.75,Default,,0,0,0,,Eldugult a lefolyó..
 Dialogue: 0,0:02:46.75,0:02:48.79,Default,,0,0,0,,Mi? Hogyan?
 Dialogue: 0,0:02:48.79,0:02:50.42,Default,,0,0,0,,Valószínűleg a hajadtól.
@@ -57,21 +62,21 @@ Dialogue: 0,0:05:04.30,0:05:07.05,Default,,0,0,0,,A fenébe, mégis miért csin�
 Dialogue: 0,0:05:07.05,0:05:11.97,Default,,0,0,0,,Nincs ott semmi! Gyerünk! Menjünk már!
 Dialogue: 0,0:05:11.97,0:05:16.56,Default,,0,0,0,,Ideje indulni! Otthon majd \Nmegetetlek, rendicsek?
 Dialogue: 0,0:05:30.41,0:05:33.24,Default,,0,0,0,,Miko, el fogsz késni!
-Dialogue: 0,0:05:39.75,0:05:41.54,Default,,0,0,0,,Nem viszel ernyőt? 
+Dialogue: 0,0:05:39.75,0:05:41.54,Default,,0,0,0,,Nem viszel ernyőt?
 Dialogue: 0,0:05:41.54,0:05:43.25,Default,,0,0,0,,Nem fog esni.
 Dialogue: 0,0:05:43.25,0:05:46.76,Default,,0,0,0,,Az időjós azt mondta a tévében,\Nhogy esni fog.
 Dialogue: 0,0:05:46.76,0:05:49.59,Default,,0,0,0,,Ha mégis eleredne, akkor veszek egyet a boltban.
-Dialogue: 0,0:05:49.59,0:05:51.60,Default,,0,0,0,,Majd jövök! 
+Dialogue: 0,0:05:49.59,0:05:51.60,Default,,0,0,0,,Majd jövök!
 Dialogue: 0,0:05:51.60,0:05:54.14,Default,,0,0,0,,Legyen jó nap.... od?
 Dialogue: 0,0:06:03.73,0:06:06.86,Default,,0,0,0,,Ne már, matek órával kezdünk.
-Dialogue: 0,0:06:06.86,0:06:10.57,Default,,0,0,0,,Aha. Azt hiszem dolgozatot is írunk ma. Tiszta szívás. 
+Dialogue: 0,0:06:06.86,0:06:10.57,Default,,0,0,0,,Aha. Azt hiszem dolgozatot is írunk ma. Tiszta szívás.
 Dialogue: 0,0:06:14.66,0:06:16.16,Default,,0,0,0,,Jó reggelt!
 Dialogue: 0,0:06:16.16,0:06:18.67,Default,,0,0,0,,Jó reggelt, Hana.
 Dialogue: 0,0:06:18.67,0:06:21.33,Default,,0,0,0,,Honnan tudtad, hogy én vagyok az?
 Dialogue: 0,0:06:22.88,0:06:24.34,Default,,0,0,0,,Az érintésedből.
 Dialogue: 0,0:06:26.38,0:06:28.72,Default,,0,0,0,,Ennyiből? Azért ennél többet vártam!
 Dialogue: 0,0:06:28.72,0:06:30.22,Default,,0,0,0,,Még túl korán van hozzá.
-Dialogue: 0,0:06:30.22,0:06:33.22,Default,,0,0,0,,Hé, Meme-chan! Ezt most szerezted?
+Dialogue: 0,0:06:30.22,0:06:33.22,Default,,0,0,0,,Az egy Meme-chan! Most szerezted?
 Dialogue: 0,0:06:33.22,0:06:34.72,Default,,0,0,0,,Igen. A könyvesboltban vettem.
 Dialogue: 0,0:06:34.72,0:06:38.81,Default,,0,0,0,,Olyan aranyos! Nekem is kell egy!
 Dialogue: 0,0:06:38.81,0:06:41.06,Default,,0,0,0,,Abból a nyusziból is volt, amit annyira szeretsz.
@@ -89,18 +94,18 @@ Dialogue: 0,0:07:28.40,0:07:30.49,Default,,0,0,0,,Azt hiszem másik osztályba j
 Dialogue: 0,0:07:30.90,0:07:31.57,Default,,0,0,0,,{\an8}"Az író valódi szándékai"
 Dialogue: 0,0:07:31.57,0:07:34.16,Default,,0,0,0,,{\an8}"Az író valódi szándékai"
 Dialogue: 0,0:07:31.57,0:07:34.16,Default,,0,0,0,,Tehát..
-Dialogue: 0,0:07:34.16,0:07:40.04,Default,,0,0,0,,...meg kell vizsgálnuk vajon a főszereplő \Nmiért alakult át tigrissé.
-Dialogue: 0,0:07:40.04,0:07:43.04,Default,,0,0,0,,Kicsit zavarbaejtő, nem?
-Dialogue: 0,0:07:43.04,0:07:48.34,Default,,0,0,0,,{\i1}Ti{\i0} mit gondoltok róla? 
-Dialogue: 0,0:07:48.34,0:07:54.47,Default,,0,0,0,,Ha tigrissé válva vesztenéd el az emberségedet....
+Dialogue: 0,0:07:34.16,0:07:40.04,Default,,0,0,0,,...meg kell vizsgálnunk, vajon a főszereplő \Nmiért alakult át tigrissé.
+Dialogue: 0,0:07:40.04,0:07:43.04,Default,,0,0,0,,Kicsit zavarba ejtő, nem?
+Dialogue: 0,0:07:43.04,0:07:48.34,Default,,0,0,0,,{\i1}Ti{\i0} mit gondoltok erről?
+Dialogue: 0,0:07:48.34,0:07:54.47,Default,,0,0,0,,Tigrissé válva elveszteni az emberségét...
 Dialogue: 0,0:08:00.68,0:08:02.73,Default,,0,0,0,,Yotsuya-san?
 Dialogue: 0,0:08:02.73,0:08:04.35,Default,,0,0,0,,Igen?
 Dialogue: 0,0:08:04.35,0:08:07.15,Default,,0,0,0,,Felolvasná a bekezdést az 57. oldalról?
 Dialogue: 0,0:08:07.15,0:08:12.07,Default,,0,0,0,,Igenis...
 Dialogue: 0,0:08:12.07,0:08:14.99,Default,,0,0,0,,"Amikor a csapat elérte a domb tetejét,
-Dialogue: 0,0:08:14.99,0:08:18.28,Default,,0,0,0,,úgy tettek, ahogy mondták nekik. Hátrafordultak és körbe néztek.
-Dialogue: 0,0:08:18.28,0:08:21.25,Default,,0,0,0,,Végig a zöldellő dombokon."
-Dialogue: 0,0:08:21.25,0:08:27.54,Default,,0,0,0,,Majd észrevették, ahogy a tigris egymaga a bozótosból az útra merészkedik.
+Dialogue: 0,0:08:14.99,0:08:18.28,Default,,0,0,0,,úgy tettek, ahogy mondták nekik. \NHátrafordultak és körbe néztek.
+Dialogue: 0,0:08:18.28,0:08:21.25,Default,,0,0,0,,Végig a zöldellő dombokon.
+Dialogue: 0,0:08:21.25,0:08:27.54,Default,,0,0,0,,Majd észrevették, ahogy a tigris egymaga a bozótosból az útra merészkedik."
 Dialogue: 0,0:08:27.54,0:08:28.80,Default,,0,0,0,,A tigris...
 Dialogue: 0,0:08:33.38,0:08:35.14,Default,,0,0,0,,Éhezem!
 Dialogue: 0,0:08:35.14,0:08:38.26,Default,,0,0,0,,De már befaltál egy péksütit is.
@@ -115,26 +120,26 @@ Dialogue: 0,0:08:59.87,0:09:03.75,Default,,0,0,0,,Már csak maradékok voltak a 
 Dialogue: 0,0:09:03.75,0:09:07.25,Default,,0,0,0,,sült csirke, gombóc, meg hamburger husi.
 Dialogue: 0,0:09:07.25,0:09:09.71,Default,,0,0,0,,Elég sok, maradékhoz képest.
 Dialogue: 0,0:09:09.71,0:09:13.09,Default,,0,0,0,,Az órám is megállt.
-Dialogue: 0,0:09:14.67,0:09:17.09,Default,,0,0,0,,Mostánában mindig ez történik.
+Dialogue: 0,0:09:14.67,0:09:17.09,Default,,0,0,0,,Mostanában mindig ez történik.
 Dialogue: 0,0:09:17.09,0:09:20.10,Default,,0,0,0,,Lehet, hogy energiára éhezik.
-Dialogue: 0,0:09:20.10,0:09:22.56,Default,,0,0,0,,A legdurvább, hogy egyszerre kiment minden világítás is! 
+Dialogue: 0,0:09:20.10,0:09:22.56,Default,,0,0,0,,A legdurvább, hogy egyszerre kiment minden világítás is!
 Dialogue: 0,0:09:22.56,0:09:25.19,Default,,0,0,0,,Lehet, hogy az egész lakás éhezik.
 Dialogue: 0,0:09:25.19,0:09:27.40,Default,,0,0,0,,Ne légy butus.
 Dialogue: 0,0:09:43.75,0:09:45.12,Default,,0,0,0,,Hana?
-Dialogue: 0,0:09:49.92,0:09:52.09,Default,,0,0,0,,Hé! Ez az enémy.
+Dialogue: 0,0:09:49.92,0:09:52.09,Default,,0,0,0,,Hé! Ez az enyém.
 Dialogue: 0,0:09:52.09,0:09:54.26,Default,,0,0,0,,Mi? Mégis miről beszélsz?
 Dialogue: 0,0:09:54.26,0:09:57.59,Default,,0,0,0,,--Ó! Hagyj már\N--Látom a morzsákat az arcodon!
-Dialogue: 0,0:10:42.76,0:10:45.52,Default,,0,0,0,,Nem akarsz elkisérni fehérnemüt nézni?
-Dialogue: 0,0:10:45.52,0:10:48.27,Default,,0,0,0,,--Benne vagyok! \N--Ezaz! 
-Dialogue: 0,0:10:48.27,0:10:51.48,Default,,0,0,0,,--Olyan, mint ha a melltartóm egyre szűkebb lenne.
+Dialogue: 0,0:10:42.76,0:10:45.52,Default,,0,0,0,,Nem akarsz elkísérni fehérneműt venni?
+Dialogue: 0,0:10:45.52,0:10:48.27,Default,,0,0,0,,--Benne vagyok! \N--Ez az!
+Dialogue: 0,0:10:48.27,0:10:51.48,Default,,0,0,0,,--Olyan, mint ha a melltartóim egyre szűkebbek lennének.
 Dialogue: 0,0:10:51.48,0:10:54.11,Default,,0,0,0,,Ezt nem akartam tudni.
-Dialogue: 0,0:10:54.11,0:10:57.28,Default,,0,0,0,,El is kezdek spórolni egy kicsit! 
+Dialogue: 0,0:10:54.11,0:10:57.28,Default,,0,0,0,,Azt hiszem, muszáj lesz spórolnom egy kicsit.
 Dialogue: 0,0:10:57.28,0:10:59.07,Default,,0,0,0,,Nézd csak! Zöldre váltott.
 Dialogue: 0,0:11:02.53,0:11:04.45,Default,,0,0,0,,Holnap találkozunk!
 Dialogue: 0,0:11:04.45,0:11:05.45,Default,,0,0,0,,Igen.
 Dialogue: 0,0:11:05.45,0:11:08.87,Default,,0,0,0,,Szia! Sietnem kell.
 Dialogue: 0,0:11:17.13,0:11:18.67,Default,,0,0,0,,Huh?
-Dialogue: 0,0:11:21.63,0:11:23.22,Default,,0,0,0,,Leesett volna?
+Dialogue: 0,0:11:21.63,0:11:23.22,Default,,0,0,0,,Elhagytam volna?
 Dialogue: 0,0:11:41.32,0:11:44.49,Default,,0,0,0,,Valahol erre lehet.
 Dialogue: 0,0:12:18.73,0:12:20.94,Default,,0,0,0,,Majdnem megvan.
 Dialogue: 0,0:12:40.80,0:12:42.88,Default,,0,0,0,,{\an8}"Ügyetlen"
@@ -154,7 +159,7 @@ Dialogue: 0,0:13:44.19,0:13:48.07,Default,,0,0,0,,Bocsánat, nem értettem.
 Dialogue: 0,0:13:48.07,0:13:51.16,Default,,0,0,0,,Bocsánat, nem értettem.
 Dialogue: 0,0:13:52.29,0:13:54.54,Default,,0,0,0,,Bocsánat...
 Dialogue: 0,0:14:49.76,0:14:50.89,Default,,0,0,0,,{\an8}"1 olvasatlan üzenet Hana-santól"
-Dialogue: 0,0:14:51.93,0:14:56.77,Default,,0,0,0,,{\an8}"Nem már!\NVigyek neked egy ernyőt?
+Dialogue: 0,0:14:51.93,0:14:56.77,Default,,0,0,0,,{\an8}"Ne már!\NVigyek neked egy ernyőt?
 Dialogue: 0,0:14:58.56,0:15:01.56,Default,,0,0,0,,Ajjaj. Jó fáradt lehetek.
 Dialogue: 0,0:15:15.08,0:15:17.33,Default,,0,0,0,,Látsz engem..?
 Dialogue: 0,0:15:17.33,0:15:22.04,Default,,0,0,0,,Hé! Látsz engem..?
@@ -165,8 +170,8 @@ Dialogue: 0,0:15:56.20,0:15:58.50,Default,,0,0,0,,Nem lát....
 Dialogue: 0,0:15:58.50,0:16:01.08,Default,,0,0,0,,...nem lát engem....
 Dialogue: 0,0:16:01.08,0:16:03.71,Default,,0,0,0,,...nem lát...
 Dialogue: 0,0:16:10.88,0:16:15.68,Default,,0,0,0,,Szent szar! Mégis {\i1}mi{\i0} volt ez?
-Dialogue: 0,0:16:15.68,0:16:19.81,Default,,0,0,0,,Isten bizony láttam! De még mennyire, hogy láttam! 
-Dialogue: 0,0:16:33.95,0:16:37.45,Default,,0,0,0,,{\an8}"Miko:\NKésőbb lesz vacsi és Kyouske se lesz itthon,\Na barátjánál alszik.\N-Anyu
+Dialogue: 0,0:16:15.68,0:16:19.81,Default,,0,0,0,,Isten bizony láttam! De még mennyire, hogy láttam!
+Dialogue: 0,0:16:33.95,0:16:37.45,Default,,0,0,0,,{\an8}"Miko! \NKésőbb lesz vacsi és Kyouske se lesz itthon,\Na barátjánál alszik.\N-Anyu
 Dialogue: 0,0:16:41.54,0:16:45.75,Default,,0,0,0,,Mi volt ez a szörnyűség? Tuti rémálmaim lesznek tőle.
 Dialogue: 0,0:16:52.30,0:16:54.05,Default,,0,0,0,,Kyousuke kéznyoma?
 Dialogue: 0,0:16:57.80,0:17:01.27,Default,,0,0,0,,Reggel is volt egy a tükrön. \NSzólnom kéne neki, hogy takarítsa le maga után.
@@ -175,19 +180,20 @@ Dialogue: 0,0:17:33.51,0:17:35.93,Default,,0,0,0,,Látsz engem? Hé! Látsz?
 Dialogue: 0,0:17:37.30,0:17:39.35,Default,,0,0,0,,Ó...
 Dialogue: 0,0:17:39.35,0:17:42.39,Default,,0,0,0,,A szemeim.. Azt hiszem valami a szemembe ment.
 Dialogue: 0,0:17:46.98,0:17:50.98,Default,,0,0,0,,Fúj.. fúj.. fúj.. fúj.. fúj.. fúj.. fúj.. fúj.. fúj.. fúj..
-Dialogue: 0,0:17:50.98,0:17:55.49,Default,,0,0,0,,Nem szabad rájönnie, hogy észrevettem! 
-Dialogue: 0,0:17:55.49,0:17:58.07,Default,,0,0,0,,Bár úgy is csak képzelődöm.
-Dialogue: 0,0:17:58.07,0:18:01.83,Default,,0,0,0,,Igen. Tuti minden rendben lesz.
-Dialogue: 0,0:18:02.74,0:18:07.04,Default,,0,0,0,,Mint a horror filmekben.\NFelnézek és már el is tünt.
+Dialogue: 0,0:17:50.98,0:17:55.49,Default,,0,0,0,,Nem szabad rájönnie, hogy észrevettem!
+Dialogue: 0,0:17:55.49,0:17:58.07,Default,,0,0,0,,Úgy is csak képzelődtem.
+Dialogue: 0,0:17:58.07,0:18:01.83,Default,,0,0,0,,Igen. Tuti minden rendben van.
+Dialogue: 0,0:18:02.74,0:18:07.04,Default,,0,0,0,,Mint a horror filmekben.\NFelnézek és már nem is lesz ott.
 Dialogue: 0,0:18:07.04,0:18:10.13,Default,,0,0,0,,Ugye? Nincs itt semmi.
 Dialogue: 0,0:18:10.13,0:18:11.75,Default,,0,0,0,,Látsz engem?
-Dialogue: 0,0:18:11.75,0:18:16.17,Default,,0,0,0,,--Ajajj. Valami nagyon szúrja a szemem! \N--Ne már, látsz engem?
-Dialogue: 0,0:18:16.17,0:18:18.43,Default,,0,0,0,,Csak nem akar elmenni.
+Dialogue: 0,0:18:11.75,0:18:16.17,Default,,0,0,0,,Ajjaj. Valami nagyon szúrja a szemem!
+Dialogue: 0,0:18:14.90,0:18:16.17,Default,,0,0,0,,{\an8}Látsz engem?
+Dialogue: 0,0:18:16.17,0:18:18.43,Default,,0,0,0,,Nem akar elmenni.
 Dialogue: 0,0:18:25.68,0:18:27.44,Default,,0,0,0,,Azt hiszem itt lesz.
 Dialogue: 0,0:18:28.48,0:18:31.48,Default,,0,0,0,,"Só"
 Dialogue: 0,0:18:33.27,0:18:34.53,Default,,0,0,0,,Tökéletes.
-Dialogue: 0,0:18:38.45,0:18:40.16,Default,,0,0,0,,Só: pipa
-Dialogue: 0,0:18:41.57,0:18:46.04,Default,,0,0,0,,Még ha ijesztőek is, eltűnnek, ha nem veszek tudomást róluk.
+Dialogue: 0,0:18:38.45,0:18:40.16,Default,,0,0,0,,Só: megtalálva.
+Dialogue: 0,0:18:41.57,0:18:46.04,Default,,0,0,0,,Még ha ijesztőek is, elmennek, ha nem veszek tudomást róluk.
 Dialogue: 0,0:18:46.04,0:18:49.58,Default,,0,0,0,,Az a fürdőszobai mondjuk elég kemény volt. \NHúsz percig szobrozott ott.
 Dialogue: 0,0:18:59.59,0:19:03.10,Default,,0,0,0,,{\an8}"ördögűző kellékek"
 Dialogue: 0,0:19:03.35,0:19:05.89,Default,,0,0,0,,Imafüzér..
@@ -200,14 +206,14 @@ Dialogue: 0,0:19:46.43,0:19:51.14,Default,,0,0,0,,Mama. Mama.
 Dialogue: 0,0:19:51.14,0:19:53.10,Default,,0,0,0,,Tényleg vennem kéne egy imafüzért.
 Dialogue: 0,0:20:19.84,0:20:21.22,Default,,0,0,0,,Jó.
 Dialogue: 0,0:20:32.19,0:20:34.10,Default,,0,0,0,,--Jó reggelt\N--Jó reggelt
-Dialogue: 0,0:20:34.10,0:20:36.44,Default,,0,0,0,,Láttad mennyio eső esett tegnap?
+Dialogue: 0,0:20:34.10,0:20:36.44,Default,,0,0,0,,Láttad mennyii eső esett tegnap?
 Dialogue: 0,0:20:36.44,0:20:42.36,Default,,0,0,0,,Miért láttam azokat a szörnyű dolgokat tegnap? \NKimerültség? Túl sok stressz?
 Dialogue: 0,0:20:42.36,0:20:43.82,Default,,0,0,0,,Isten se tudja.
-Dialogue: 0,0:20:43.82,0:20:45.62,Default,,0,0,0,,--Most már minden a régi..\N--Jó reggelt! 
-Dialogue: 0,0:20:47.28,0:20:50.37,Default,,0,0,0,,Adjunk bele mindent ma! 
+Dialogue: 0,0:20:43.82,0:20:45.62,Default,,0,0,0,,--Most már minden a régi..\N--Jó reggelt!
+Dialogue: 0,0:20:47.28,0:20:50.37,Default,,0,0,0,,Adjunk bele mindent ma!
 Dialogue: 0,0:20:50.37,0:20:52.25,Default,,0,0,0,,Tényleg! Miko, készültél...
-Dialogue: 0,0:20:53.58,0:20:55.75,Default,,0,0,0,,Mi ütött beléd? 
-Dialogue: 0,0:20:55.75,0:20:58.13,Default,,0,0,0,,A.. A szívbajt hoztad rám! 
+Dialogue: 0,0:20:53.58,0:20:55.75,Default,,0,0,0,,Mi ütött beléd?
+Dialogue: 0,0:20:55.75,0:20:58.13,Default,,0,0,0,,A.. A szívbajt hoztad rám!
 Dialogue: 0,0:20:58.13,0:21:02.88,Default,,0,0,0,,Miért ijedtél meg ennyire? Azt hittem felismersz.
 Dialogue: 0,0:21:02.88,0:21:04.59,Default,,0,0,0,,Igen, de...
 Dialogue: 0,0:21:08.30,0:21:11.85,Default,,0,0,0,,Miko? Jól vagy?
@@ -216,24 +222,23 @@ Dialogue: 0,0:21:13.48,0:21:16.02,Default,,0,0,0,,Nem látok semmit...
 Dialogue: 0,0:21:18.82,0:21:21.36,Default,,0,0,0,,A harmadikon vagyunk, ugye?
 Dialogue: 0,0:21:21.36,0:21:25.74,Default,,0,0,0,,Hah? Igeeen, Miért kérdezed? Mi ütött beléd?
 Dialogue: 0,0:21:25.74,0:21:28.83,Default,,0,0,0,,Ne is törődj vele, csak hülyéskedek.
-Dialogue: 0,0:21:41.42,0:21:43.80,Default,,0,0,0,,Jó reggelt! 
+Dialogue: 0,0:21:41.42,0:21:43.80,Default,,0,0,0,,Jó reggelt!
 Dialogue: 0,0:21:45.05,0:21:47.18,Default,,0,0,0,,Hé...
 Dialogue: 0,0:21:47.18,0:21:52.06,Default,,0,0,0,,...Sensei...
 Dialogue: 0,0:21:54.81,0:21:58.81,Default,,0,0,0,,..Jó reggelt...
 Dialogue: 0,0:21:58.81,0:21:59.98,Default,,0,0,0,,Mégis...
 Dialogue: 0,0:21:59.98,0:22:02.07,Default,,0,0,0,,Miko?
 Dialogue: 0,0:22:02.07,0:22:04.44,Default,,0,0,0,,{\i1}Mégis látom ezeket!{\i0}
-Dialogue: 0,0:23:34.95,0:23:35.66,Default,,0,0,0,,{\an8}"Teljes mértékben látja azokat"
-Dialogue: 0,0:23:35.66,0:23:37.87,Default,,0,0,0,,{\an8}"Teljes mértékben látja azokat"
-Dialogue: 0,0:23:35.66,0:23:37.87,Default,,0,0,0,,Bizony-bizony. Látja őket! 
-Dialogue: 0,0:23:37.87,0:23:40.79,Default,,0,0,0,,{\an8}"Teljes mértékben látja azokat"
+Dialogue: 0,0:23:34.95,0:23:35.66,Default,,0,0,0,,{\an8}"Teljes mértékben látja őket."
+Dialogue: 0,0:23:35.66,0:23:37.87,Default,,0,0,0,,{\an8}"Teljes mértékben látja őket."
+Dialogue: 0,0:23:35.66,0:23:37.87,Default,,0,0,0,,Bizony-bizony. Látja őket!
+Dialogue: 0,0:23:37.87,0:23:40.79,Default,,0,0,0,,{\an8}"Teljes mértékben látja őket."
 Dialogue: 0,0:23:37.87,0:23:40.79,Default,,0,0,0,,Biztos arra gondol:\N"Azt már mit nem! Nem akarom látni ezeket!"
-Dialogue: 0,0:23:40.79,0:23:42.88,Default,,0,0,0,,{\an8}"Teljes mértékben látja azokat"
+Dialogue: 0,0:23:40.79,0:23:42.88,Default,,0,0,0,,{\an8}"Teljes mértékben látja őket."
 Dialogue: 0,0:23:40.79,0:23:42.88,Default,,0,0,0,,Na bumm. Mégis látni fogja.
-Dialogue: 0,0:23:42.88,0:23:45.38,Default,,0,0,0,,{\an8}"Teljes mértékben látja azokat"
-Dialogue: 0,0:23:42.88,0:23:45.38,Default,,0,0,0,,Következő epizód:\N\N"Teljes mértékben látja azokat"
-Dialogue: 0,0:23:45.38,0:23:48.01,Default,,0,0,0,,{\an8}"Teljes mértékben látja azokat"
+Dialogue: 0,0:23:42.88,0:23:45.38,Default,,0,0,0,,{\an8}"Teljes mértékben látja őket."
+Dialogue: 0,0:23:42.88,0:23:45.38,Default,,0,0,0,,Következő epizód:\N\N"Teljes mértékben látja őket"
+Dialogue: 0,0:23:45.38,0:23:48.01,Default,,0,0,0,,{\an8}"Teljes mértékben látja őket"
 Dialogue: 0,0:23:45.38,0:23:48.01,Default,,0,0,0,,Te pedig biztos arra gondolsz: \N"Én bizony nem akarom látni"
-Dialogue: 0,0:23:48.01,0:23:49.42,Default,,0,0,0,,{\an8}"Teljes mértékben látja azokat"
+Dialogue: 0,0:23:48.01,0:23:49.42,Default,,0,0,0,,{\an8}"Teljes mértékben látja őket"
 Dialogue: 0,0:23:48.01,0:23:49.42,Default,,0,0,0,,Azért remélem mégis velünk tartasz.
-Dialogue: 0,0:23:49.42,0:23:51.42,Default,,0,0,0,,

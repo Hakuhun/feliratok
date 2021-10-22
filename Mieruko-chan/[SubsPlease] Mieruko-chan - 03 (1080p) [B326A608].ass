@@ -11,9 +11,9 @@ PlayResY: 360
 
 [Aegisub Project Garbage]
 Video Zoom Percent: 0.750000
-Scroll Position: 186
-Active Line: 208
-Video Position: 23095
+Scroll Position: 292
+Active Line: 308
+Video Position: 31471
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -230,135 +230,103 @@ Dialogue: 0,0:15:52.07,0:15:54.16,Default,,0,0,0,,Ishmehek ehgy hehjeht.
 Dialogue: 0,0:16:01.04,0:16:03.29,Default,,0,0,0,,Tényleg csodálatos!
 Dialogue: 0,0:16:05.00,0:16:07.46,Default,,0,0,0,,{\an8}--Mama, mit csinál ez a lány?\N--Ne is figyelj rá!
 Dialogue: 0,0:16:07.46,0:16:09.96,Default,,0,0,0,,{\an8}"Jövendölés és ördögűzés:\NA KERESZTANYA! 
-Dialogue: 0,0:16:12.01,0:16:13.51,Default,,0,0,0,,I'll try another day.
-Dialogue: 0,0:16:13.51,0:16:16.26,Default,,0,0,0,,It's just as you said!
-Dialogue: 0,0:16:16.26,0:16:19.35,Default,,0,0,0,,With this bracelet on,\Nall the guys are hitting on me!
-Dialogue: 0,0:16:21.81,0:16:26.48,Default,,0,0,0,,Once its power runs out,\NI'll fill it up again for 30,000.
-Dialogue: 0,0:16:26.48,0:16:29.23,Default,,0,0,0,,Oh, I'll be back! You're a lifesaver!
-Dialogue: 0,0:16:32.49,0:16:36.66,Default,,0,0,0,,That's only going to work two more times.
-Dialogue: 0,0:16:36.66,0:16:39.16,Default,,0,0,0,,Ten, twenty, thirty...
-Dialogue: 0,0:16:39.16,0:16:42.75,Default,,0,0,0,,Once I take out what I owe\Nthe hosts hitting on her at Sakura...
-Dialogue: 0,0:16:44.29,0:16:47.67,Default,,0,0,0,,...I'd better find a new mark, and fast.
-Dialogue: 0,0:16:48.75,0:16:51.42,Default,,0,0,0,,Ow, ow, my back...
-Dialogue: 0,0:16:57.10,0:16:58.85,Default,,0,0,0,,{\an8}"Dear Mom..."
-Dialogue: 0,0:17:01.85,0:17:05.85,Default,,0,0,0,,{\an8}"...you're getting older...\N...invite you to come live with us...\N...worried about you."
-Dialogue: 0,0:17:06.44,0:17:10.36,Default,,0,0,0,,I'm not about to be anyone's burden.
-Dialogue: 0,0:17:11.65,0:17:13.65,Default,,0,0,0,,Excuse me.
-Dialogue: 0,0:17:13.65,0:17:15.45,Default,,0,0,0,,One second, here.
-Dialogue: 0,0:17:15.45,0:17:17.20,Default,,0,0,0,,Do you have any strong prayer beads?
-Dialogue: 0,0:17:17.20,0:17:18.87,Default,,0,0,0,,Ones that won't break right away!
-Dialogue: 0,0:17:18.87,0:17:21.83,Default,,0,0,0,,Just a couple'a kids.
-Dialogue: 0,0:17:21.83,0:17:25.58,Default,,0,0,0,,My, look at you two lovely ladies!
-Dialogue: 0,0:17:25.58,0:17:29.09,Default,,0,0,0,,It just so happens that I've got\Na powerful set right here.
-Dialogue: 0,0:17:29.09,0:17:31.46,Default,,0,0,0,,Oh, good! We're so lucky!
-Dialogue: 0,0:17:31.46,0:17:32.51,Default,,0,0,0,,Yeah.
-Dialogue: 0,0:17:32.51,0:17:35.05,Default,,0,0,0,,Kids don't have money,
-Dialogue: 0,0:17:35.05,0:17:38.43,Default,,0,0,0,,so I'll just pick something\Nat random and ask for 3,000.
-Dialogue: 0,0:17:38.43,0:17:42.89,Default,,0,0,0,,Here, these are packed\Nwith incredible warding power.
-Dialogue: 0,0:17:42.89,0:17:44.64,Default,,0,0,0,,They sure {\i1}look {\i0}powerful!
-Dialogue: 0,0:17:44.64,0:17:46.69,Default,,0,0,0,,May I try them on?
-Dialogue: 0,0:17:46.69,0:17:48.19,Default,,0,0,0,,Go right ahead.
-Dialogue: 0,0:17:59.99,0:18:03.29,Default,,0,0,0,,Those broke, too?!
-Dialogue: 0,0:18:03.29,0:18:07.17,Default,,0,0,0,,The elastic must've been old. Sorry, dear.
-Dialogue: 0,0:18:07.17,0:18:09.17,Default,,0,0,0,,Let me get another set.
-Dialogue: 0,0:18:11.29,0:18:15.80,Default,,0,0,0,,I may be a rotten scammer, but they don't\Ncall me Godmother for nothing!
-Dialogue: 0,0:18:18.93,0:18:23.47,Default,,0,0,0,,I can just barely make out a black haze...
-Dialogue: 0,0:18:23.47,0:18:25.85,Default,,0,0,0,,Why is it following me?
-Dialogue: 0,0:18:28.85,0:18:32.27,Default,,0,0,0,,I can see these horrible things\Nas clear as day!
-Dialogue: 0,0:18:32.27,0:18:34.19,Default,,0,0,0,,Itchy.
-Dialogue: 0,0:18:34.19,0:18:37.45,Default,,0,0,0,,Young lady, have you seen\Nanything odd lately?
-Dialogue: 0,0:18:37.45,0:18:38.15,Default,,0,0,0,,No.
-Dialogue: 0,0:18:38.15,0:18:39.74,Default,,0,0,0,,Has anything strange happ--
-Dialogue: 0,0:18:39.74,0:18:40.45,Default,,0,0,0,,No.
-Dialogue: 0,0:18:40.45,0:18:42.66,Default,,0,0,0,,Huh? What're you talking about?
-Dialogue: 0,0:18:42.66,0:18:44.29,Default,,0,0,0,,Nothing.
-Dialogue: 0,0:18:44.29,0:18:47.46,Default,,0,0,0,,She sees it,\Nbut she's trying to ignore it.
-Dialogue: 0,0:18:47.46,0:18:49.46,Default,,0,0,0,,What a tough little girl.
-Dialogue: 0,0:18:49.46,0:18:51.33,Default,,0,0,0,,And her friend there...
-Dialogue: 0,0:18:53.67,0:18:57.51,Default,,0,0,0,,What a powerful aura!
-Dialogue: 0,0:18:57.51,0:19:00.84,Default,,0,0,0,,It's quite incredible.
-Dialogue: 0,0:19:00.84,0:19:03.30,Default,,0,0,0,,What? Nothing scary's\Nhappening to you, is it?!
-Dialogue: 0,0:19:03.30,0:19:06.35,Default,,0,0,0,,Nope. Nothing even remotely scary.
-Dialogue: 0,0:19:06.35,0:19:07.73,Default,,0,0,0,,--Really?\N--Really.
-Dialogue: 0,0:19:07.73,0:19:09.10,Default,,0,0,0,,Really-really?
-Dialogue: 0,0:19:09.10,0:19:10.56,Default,,0,0,0,,Really-really.
-Dialogue: 0,0:19:10.56,0:19:17.40,Default,,0,0,0,,She doesn't see them,\Nbut she must attract all sorts of horrors.
-Dialogue: 0,0:19:17.40,0:19:20.07,Default,,0,0,0,,So why's she asking\Nif you saw anything weird?
-Dialogue: 0,0:19:20.07,0:19:22.87,Default,,0,0,0,,She's asking if my vision\Nmakes things look weird.
-Dialogue: 0,0:19:22.87,0:19:24.16,Default,,0,0,0,,Weird how?!
-Dialogue: 0,0:19:24.16,0:19:25.79,Default,,0,0,0,,Like, if I'm nearsighted.
-Dialogue: 0,0:19:25.79,0:19:30.87,Default,,0,0,0,,With that aura, no matter what comes\Nfor her, she won't be affected at all.
-Dialogue: 0,0:19:30.87,0:19:32.63,Default,,0,0,0,,Excuse me.
-Dialogue: 0,0:19:32.63,0:19:33.84,Default,,0,0,0,,Do you have other beads?
-Dialogue: 0,0:19:33.84,0:19:37.05,Default,,0,0,0,,Yes, just one moment.
-Dialogue: 0,0:19:38.59,0:19:42.47,Default,,0,0,0,,She obviously has the sight.
-Dialogue: 0,0:19:42.47,0:19:47.35,Default,,0,0,0,,I'm not so rotten that I'd abandon\Na girl the same age as my grandchildren!
-Dialogue: 0,0:19:47.35,0:19:52.02,Default,,0,0,0,,I never thought the day would come\Nwhen I'd need to use these...
-Dialogue: 0,0:19:54.56,0:19:58.44,Default,,0,0,0,,Don't worry, sweetheart.
-Dialogue: 0,0:20:00.11,0:20:05.16,Default,,0,0,0,,This is the most powerful item\Nin my collection.
-Dialogue: 0,0:20:11.46,0:20:13.58,Default,,0,0,0,,They're beautiful!
-Dialogue: 0,0:20:15.46,0:20:20.13,Default,,0,0,0,,They're on a completely\Ndifferent level than the last set!
-Dialogue: 0,0:20:20.13,0:20:22.84,Default,,0,0,0,,No need to pay me. Just take them!
-Dialogue: 0,0:20:22.84,0:20:25.68,Default,,0,0,0,,A-Are you sure?
-Dialogue: 0,0:20:25.68,0:20:27.06,Default,,0,0,0,,Yes.
-Dialogue: 0,0:20:27.06,0:20:31.56,Default,,0,0,0,,You've opened my eyes\Nto the truth, after all.
-Dialogue: 0,0:20:41.74,0:20:45.45,Default,,0,0,0,,They're filled with the condensed power\Nfrom my prime years!
-Dialogue: 0,0:20:45.45,0:20:48.70,Default,,0,0,0,,As of today, I'm done with petty cons!
-Dialogue: 0,0:20:49.66,0:20:51.62,Default,,0,0,0,,The Godmother is {\i1}back{\i0}!
-Dialogue: 0,0:20:51.62,0:21:00.46,Default,,0,0,0,,{\i1}So itchy...!{\i0}
-Dialogue: 0,0:21:12.02,0:21:14.69,Default,,0,0,0,,Are you okay, ma'am?!
-Dialogue: 0,0:21:22.36,0:21:25.11,Default,,0,0,0,,Prayer beads are so flimsy!
-Dialogue: 0,0:21:25.11,0:21:27.70,Default,,0,0,0,,Mine snapped back there, too.
-Dialogue: 0,0:21:27.70,0:21:30.41,Default,,0,0,0,,I think I'm done\Nwith prayer beads for now.
-Dialogue: 0,0:21:30.41,0:21:31.75,Default,,0,0,0,,Same.
-Dialogue: 0,0:21:31.75,0:21:33.71,Default,,0,0,0,,And that big scary one...
-Dialogue: 0,0:21:37.75,0:21:40.13,Default,,0,0,0,,...stopped following me at some point.
-Dialogue: 0,0:21:44.22,0:21:46.51,Default,,0,0,0,,Itchy...
-Dialogue: 0,0:21:49.35,0:21:52.64,Default,,0,0,0,,{\i1}If you see me, when you see me,{\i0}\N{\i1}do you see me? Look at me!{\i0}
-Dialogue: 0,0:21:52.64,0:21:55.94,Default,,0,0,0,,{\i1}You saw? You saw me, right?{\i0}\N{\i1}You're seeing me, right? {\i0}
-Dialogue: 0,0:21:55.94,0:21:57.65,Default,,0,0,0,,{\i1}(Feel my wrath,{\i0}\N{\i1}feel my wrath, feel my wrath!){\i0}
-Dialogue: 0,0:21:57.65,0:21:59.48,Default,,0,0,0,,{\i1}(See my blood,{\i0}\N{\i1}see my blood, see my blood!){\i0}
-Dialogue: 0,0:21:59.48,0:22:01.23,Default,,0,0,0,,{\i1}(Fear my grudge,{\i0}\N{\i1}fear my grudge, fear my grudge!){\i0}
-Dialogue: 0,0:22:01.23,0:22:03.11,Default,,0,0,0,,{\i1}(Suffer my curse,{\i0}\N{\i1}suffer my curse, suffer my curse!){\i0}
-Dialogue: 0,0:22:03.11,0:22:04.53,Default,,0,0,0,,{\i1}Turn towards me, baby{\i0}
-Dialogue: 0,0:22:04.53,0:22:06.70,Default,,0,0,0,,{\i1}C'mon, come closer now{\i0}
-Dialogue: 0,0:22:06.70,0:22:08.07,Default,,0,0,0,,{\i1}Don't look away, non non non{\i0}
-Dialogue: 0,0:22:08.07,0:22:10.16,Default,,0,0,0,,{\i1}Look me right in the eye{\i0}
-Dialogue: 0,0:22:10.16,0:22:11.53,Default,,0,0,0,,{\i1}In the flames, or in the trees,{\i0}
-Dialogue: 0,0:22:11.53,0:22:13.75,Default,,0,0,0,,{\i1}Or even in your bed{\i0}
-Dialogue: 0,0:22:13.75,0:22:15.16,Default,,0,0,0,,{\i1}I'll be with you forever{\i0}
-Dialogue: 0,0:22:15.16,0:22:17.12,Default,,0,0,0,,{\i1}I'll want you forever{\i0}
-Dialogue: 0,0:22:17.12,0:22:19.75,Default,,0,0,0,,{\i1}I want to haunt you,{\i0}\N{\i1}I want to rest in peace,{\i0}
-Dialogue: 0,0:22:19.75,0:22:22.34,Default,,0,0,0,,{\i1}I want to find spiritual release{\i0}
-Dialogue: 0,0:22:22.34,0:22:25.26,Default,,0,0,0,,{\i1}Give poor, little me{\i0}
-Dialogue: 0,0:22:25.26,0:22:27.05,Default,,0,0,0,,{\i1}All your comfort{\i0}
-Dialogue: 0,0:22:27.05,0:22:31.43,Default,,0,0,0,,{\i1}All your offerings{\i0}
-Dialogue: 0,0:22:31.43,0:22:35.60,Default,,0,0,0,,{\i1}All of your soul{\i0}
-Dialogue: 0,0:22:35.60,0:22:38.69,Default,,0,0,0,,{\i1}Won't you let me haunt you,{\i0}\N{\i1}I'm obsessed with you{\i0}
-Dialogue: 0,0:22:38.69,0:22:42.69,Default,,0,0,0,,{\i1}There's no getting away,{\i0}\N{\i1}I won't let you escape{\i0}
-Dialogue: 0,0:22:42.69,0:22:45.53,Default,,0,0,0,,{\i1}Won't you let me haunt you,{\i0}\N{\i1}my curse will bind you{\i0}
-Dialogue: 0,0:22:45.53,0:22:49.70,Default,,0,0,0,,{\i1}I'll tie you down{\i0}\N{\i1}so you can't run away{\i0}
-Dialogue: 0,0:22:49.70,0:22:52.83,Default,,0,0,0,,{\i1}Won't you let me haunt you,{\i0}\N{\i1}around the clock{\i0}
-Dialogue: 0,0:22:52.83,0:22:56.83,Default,,0,0,0,,{\i1}I know you can feel my hand{\i0}\N{\i1}on your shoulder{\i0}
-Dialogue: 0,0:22:56.83,0:22:59.67,Default,,0,0,0,,{\i1}Won't you let me haunt you,{\i0}\N{\i1}turn around{\i0}
-Dialogue: 0,0:22:59.67,0:23:03.92,Default,,0,0,0,,{\i1}I'm right behind you{\i0}
-Dialogue: 0,0:23:03.92,0:23:06.97,Default,,0,0,0,,{\i1}If you see me, when you see me,{\i0}\N{\i1}do you see me? Look at me!{\i0}
-Dialogue: 0,0:23:06.97,0:23:10.05,Default,,0,0,0,,{\i1}If you can't see me, I'll stay until you see,{\i0}\N{\i1}until you say you see{\i0}
-Dialogue: 0,0:23:10.05,0:23:13.39,Default,,0,0,0,,{\i1}If you see me, when you see me,{\i0}\N{\i1}do you see me? Look at me!{\i0}
-Dialogue: 0,0:23:13.39,0:23:16.73,Default,,0,0,0,,{\i1}You saw? You saw me, right?{\i0}\N{\i1}You're seeing me, right?{\i0}
-Dialogue: 0,0:23:22.86,0:23:23.94,Default,,0,0,0,,M...
-Dialogue: 0,0:23:23.94,0:23:25.69,Default,,0,0,0,,Mom!
-Dialogue: 0,0:23:26.07,0:23:27.44,Default,,0,0,0,,I'm...
-Dialogue: 0,0:23:28.99,0:23:30.82,Default,,0,0,0,,...turnin' a new leaf.
-Dialogue: 0,0:23:31.03,0:23:35.04,Default,,0,0,0,,{\an8}"The House of Fortune is closed.\NMitsue Takeda"
-Dialogue: 0,0:23:35.04,0:23:35.87,Default,,0,0,0,,{\an8}"Yep, She Sees Them"
-Dialogue: 0,0:23:35.87,0:23:38.33,Default,,0,0,0,,{\an8}"Yep, She Sees Them"
-Dialogue: 0,0:23:35.87,0:23:38.33,Default,,0,0,0,,Y'know, I can see\Nlots of monsters, too.
-Dialogue: 0,0:23:38.33,0:23:41.96,Default,,0,0,0,,{\an8}"Yep, She Sees Them"
-Dialogue: 0,0:23:38.33,0:23:41.96,Default,,0,0,0,,I'm seeing one now!\NStanding riiight behind you...
-Dialogue: 0,0:23:41.96,0:23:44.71,Default,,0,0,0,,{\an8}"Yep, She Sees Them"
-Dialogue: 0,0:23:41.96,0:23:44.71,Default,,0,0,0,,Next time,\N"Yep, She Sees Them!"
-Dialogue: 0,0:23:44.71,0:23:46.50,Default,,0,0,0,,{\an8}"Yep, She Sees Them"
-Dialogue: 0,0:23:44.71,0:23:46.50,Default,,0,0,0,,Next episode is about family!
-Dialogue: 0,0:23:46.50,0:23:49.51,Default,,0,0,0,,{\an8}"Yep, She Sees Them"
-Dialogue: 0,0:23:46.50,0:23:49.51,Default,,0,0,0,,Scary stuff happening at home?\NSay it ain't so!
+Dialogue: 0,0:16:12.01,0:16:13.51,Default,,0,0,0,,Majd máskor kipróbálom.
+Dialogue: 0,0:16:13.51,0:16:16.26,Default,,0,0,0,,Épp ahogy mondta.
+Dialogue: 0,0:16:16.26,0:16:19.35,Default,,0,0,0,,Ezzel a karkötővel minden férfi flörtöl velem.
+Dialogue: 0,0:16:21.81,0:16:26.48,Default,,0,0,0,,Ha kifogyna az erejéből, újra töltöm majd 30000 Yenért.
+Dialogue: 0,0:16:26.48,0:16:29.23,Default,,0,0,0,,Mindenképpen visszajövök. Ön egy igazi angyal.
+Dialogue: 0,0:16:32.49,0:16:36.66,Default,,0,0,0,,Már csak két alkalommal fog működni.
+Dialogue: 0,0:16:36.66,0:16:39.16,Default,,0,0,0,,Tíz, húsz, harminc...
+Dialogue: 0,0:16:39.16,0:16:42.75,Default,,0,0,0,,ha megadom a bérét a színészeknek akik oda mentek hozzá Sakurában...
+Dialogue: 0,0:16:44.29,0:16:47.67,Default,,0,0,0,,...muszáj lesz egy új vevőt találnom, gyorsan.
+Dialogue: 0,0:16:48.75,0:16:51.42,Default,,0,0,0,,Ajj a derakam....
+Dialogue: 0,0:16:57.10,0:16:58.85,Default,,0,0,0,,{\an8}"Édesanyám...."
+Dialogue: 0,0:17:01.85,0:17:05.85,Default,,0,0,0,,{\an8}"egyre idősebb vagy, gyere lakj nálunk, aggódom érted.
+Dialogue: 0,0:17:06.44,0:17:10.36,Default,,0,0,0,,Nem leszek én senki terhére sem.
+Dialogue: 0,0:17:11.65,0:17:13.65,Default,,0,0,0,,Elnézést!
+Dialogue: 0,0:17:13.65,0:17:15.45,Default,,0,0,0,,Egy pillanat.
+Dialogue: 0,0:17:15.45,0:17:17.20,Default,,0,0,0,,Árul erős imafüzéreket? 
+Dialogue: 0,0:17:17.20,0:17:18.87,Default,,0,0,0,,Olyat, ami nem esik szét azon nyomban.
+Dialogue: 0,0:17:18.87,0:17:21.83,Default,,0,0,0,,Ezek csak gyerekek.
+Dialogue: 0,0:17:21.83,0:17:25.58,Default,,0,0,0,,Milyen aranyos két kis hölgy. 
+Dialogue: 0,0:17:25.58,0:17:29.09,Default,,0,0,0,,Azt hiszem van is egy igazán erős hátul.
+Dialogue: 0,0:17:29.09,0:17:31.46,Default,,0,0,0,,Ez az! Szerencsések vagyunk.
+Dialogue: 0,0:17:31.46,0:17:32.51,Default,,0,0,0,,Igen.
+Dialogue: 0,0:17:32.51,0:17:35.05,Default,,0,0,0,,A kölyköknek nincs pénze.
+Dialogue: 0,0:17:35.05,0:17:38.43,Default,,0,0,0,,Jó lesz nekik egy random 3000 Yenes.
+Dialogue: 0,0:17:38.43,0:17:42.89,Default,,0,0,0,,Tessék. Ebben hihetetlen mennyiségű védőerő van.
+Dialogue: 0,0:17:42.89,0:17:44.64,Default,,0,0,0,,Tényleg {\i1}erősnek{\i0} néz ki.
+Dialogue: 0,0:17:44.64,0:17:46.69,Default,,0,0,0,,Felpróbálhatom?
+Dialogue: 0,0:17:46.69,0:17:48.19,Default,,0,0,0,,Persze, csak nyugodtan.
+Dialogue: 0,0:17:59.99,0:18:03.29,Default,,0,0,0,,Ez is eltört?
+Dialogue: 0,0:18:03.29,0:18:07.17,Default,,0,0,0,,Bocsánat drága. A gumi biztos régi már benne.
+Dialogue: 0,0:18:07.17,0:18:09.17,Default,,0,0,0,,Hozok egy másikat.
+Dialogue: 0,0:18:11.29,0:18:15.80,Default,,0,0,0,,Lehet, hogy egy csaló vagyok, de nem hiába neveznek Keresztanyának.
+Dialogue: 0,0:18:18.93,0:18:23.47,Default,,0,0,0,,Épp, hogy ki tudom venni a körülötte lévő feketeséget...
+Dialogue: 0,0:18:23.47,0:18:25.85,Default,,0,0,0,,Miért követ engem?
+Dialogue: 0,0:18:28.85,0:18:32.27,Default,,0,0,0,,A Napnál is világosabban látom ezeket a szörnyű dolgokat.
+Dialogue: 0,0:18:32.27,0:18:34.19,Default,,0,0,0,,Viszket...
+Dialogue: 0,0:18:34.19,0:18:37.45,Default,,0,0,0,,Kisasszony, látott furcsaságokat mostanában?
+Dialogue: 0,0:18:37.45,0:18:38.15,Default,,0,0,0,,Nem.
+Dialogue: 0,0:18:38.15,0:18:39.74,Default,,0,0,0,,Történt bármi furcsa ön...
+Dialogue: 0,0:18:39.74,0:18:40.45,Default,,0,0,0,,Nem.
+Dialogue: 0,0:18:40.45,0:18:42.66,Default,,0,0,0,,Mégis miről beszéltek?
+Dialogue: 0,0:18:42.66,0:18:44.29,Default,,0,0,0,,Semmiség.
+Dialogue: 0,0:18:44.29,0:18:47.46,Default,,0,0,0,,Látja őket, de próbálja palástolni.
+Dialogue: 0,0:18:47.46,0:18:49.46,Default,,0,0,0,,Erős kislány.
+Dialogue: 0,0:18:49.46,0:18:51.33,Default,,0,0,0,,A barátja pedig...
+Dialogue: 0,0:18:53.67,0:18:57.51,Default,,0,0,0,,Erőteljes aurával rendelkezik!
+Dialogue: 0,0:18:57.51,0:19:00.84,Default,,0,0,0,,Egészen lenyűgöző.
+Dialogue: 0,0:19:00.84,0:19:03.30,Default,,0,0,0,,Micsoda? Remélem semmi szörnyű nem történit veled.
+Dialogue: 0,0:19:03.30,0:19:06.35,Default,,0,0,0,,Nem. Semmi ijesztő.
+Dialogue: 0,0:19:06.35,0:19:07.73,Default,,0,0,0,,--Tényleg?\N--Tényleg.
+Dialogue: 0,0:19:07.73,0:19:09.10,Default,,0,0,0,,De tényleg?
+Dialogue: 0,0:19:09.10,0:19:10.56,Default,,0,0,0,,De tényleg.
+Dialogue: 0,0:19:10.56,0:19:17.40,Default,,0,0,0,,Ő nem látja, de biztos magához vonz mindenféle szörnyűséget.
+Dialogue: 0,0:19:17.40,0:19:20.07,Default,,0,0,0,,Akkor miért kérdez ilyeneket a néni?
+Dialogue: 0,0:19:20.07,0:19:22.87,Default,,0,0,0,,Csak arra kíváncsi, hogy jó a látásom, vagy van vele valami furcsaság.
+Dialogue: 0,0:19:22.87,0:19:24.16,Default,,0,0,0,,Furcsaság?
+Dialogue: 0,0:19:24.16,0:19:25.79,Default,,0,0,0,,Igen. Például közellátó vagyok-e.
+Dialogue: 0,0:19:25.79,0:19:30.87,Default,,0,0,0,,Ilyen aurával jöhet bármi, nem lesz hatással rá.
+Dialogue: 0,0:19:30.87,0:19:32.63,Default,,0,0,0,,Elnézést.
+Dialogue: 0,0:19:32.63,0:19:33.84,Default,,0,0,0,,Van más imafüzére is? 
+Dialogue: 0,0:19:33.84,0:19:37.05,Default,,0,0,0,,Igen, egy pillanat.
+Dialogue: 0,0:19:38.59,0:19:42.47,Default,,0,0,0,,Biztos látja őket.
+Dialogue: 0,0:19:42.47,0:19:47.35,Default,,0,0,0,,Nem vagyok olyan romlott, hogy cserben hagyjak egy a kisunokámmal egy idős lányt.
+Dialogue: 0,0:19:47.35,0:19:52.02,Default,,0,0,0,,Sose gondoltam volna, hogy eljön az a nap, hogy ezt használjam...
+Dialogue: 0,0:19:54.56,0:19:58.44,Default,,0,0,0,,Ne aggódjon aranyom.
+Dialogue: 0,0:20:00.11,0:20:05.16,Default,,0,0,0,,Ez a legerősebb a gyűjteményemből.
+Dialogue: 0,0:20:11.46,0:20:13.58,Default,,0,0,0,,Gyönyörű!
+Dialogue: 0,0:20:15.46,0:20:20.13,Default,,0,0,0,,Teljesen más szint, mint az előző pár.
+Dialogue: 0,0:20:20.13,0:20:22.84,Default,,0,0,0,,Nem is kérek érte semmit, csak vigye el.
+Dialogue: 0,0:20:22.84,0:20:25.68,Default,,0,0,0,,Biztos?
+Dialogue: 0,0:20:25.68,0:20:27.06,Default,,0,0,0,,Igen.
+Dialogue: 0,0:20:27.06,0:20:31.56,Default,,0,0,0,,Végülis, ráébresztett az igazságra.
+Dialogue: 0,0:20:41.74,0:20:45.45,Default,,0,0,0,,Feltöltöttem ezt a sűrített erőmmel, még a legjobb éveimből.
+Dialogue: 0,0:20:45.45,0:20:48.70,Default,,0,0,0,,Mára már úgy is a pénzemnél vagyok.
+Dialogue: 0,0:20:49.66,0:20:51.62,Default,,0,0,0,,A {\b1\i1}Keresztanya{\b0\i0} visszatért! 
+Dialogue: 0,0:20:51.62,0:21:00.46,Default,,0,0,0,,{\i1}Úgy viszket...{\i0}
+Dialogue: 0,0:21:12.02,0:21:14.69,Default,,0,0,0,,Jól van asszonyom?
+Dialogue: 0,0:21:22.36,0:21:25.11,Default,,0,0,0,,Ezek a gyöngyök olyan gyengék.
+Dialogue: 0,0:21:25.11,0:21:27.70,Default,,0,0,0,,Még az enyém is szétesett.
+Dialogue: 0,0:21:27.70,0:21:30.41,Default,,0,0,0,,Azt hiszem végeztem az imafüzérekkel mára.
+Dialogue: 0,0:21:30.41,0:21:31.75,Default,,0,0,0,,Én is.
+Dialogue: 0,0:21:31.75,0:21:33.71,Default,,0,0,0,,Még az az ijesztő nagydarab is...
+Dialogue: 0,0:21:37.75,0:21:40.13,Default,,0,0,0,,...felhagyott a követésemmel.
+Dialogue: 0,0:21:44.22,0:21:46.51,Default,,0,0,0,,Viszket....
+Dialogue: 0,0:23:22.86,0:23:23.94,Default,,0,0,0,,A...
+Dialogue: 0,0:23:23.94,0:23:25.69,Default,,0,0,0,,Anya!
+Dialogue: 0,0:23:26.07,0:23:27.44,Default,,0,0,0,,Tiszta lappal...
+Dialogue: 0,0:23:28.99,0:23:30.82,Default,,0,0,0,,...indítok.
+Dialogue: 0,0:23:31.03,0:23:35.04,Default,,0,0,0,,{\an8}"A jövendölések háza bezárt.\NMitsue Takeda"
+Dialogue: 0,0:23:35.04,0:23:35.87,Default,,0,0,0,,{\an8}"Igen, Látja őket."
+Dialogue: 0,0:23:35.87,0:23:38.33,Default,,0,0,0,,{\an8}"Igen, Látja őket."
+Dialogue: 0,0:23:35.87,0:23:38.33,Default,,0,0,0,,Tudod, elég sok szörnyet láttam már...
+Dialogue: 0,0:23:38.33,0:23:41.96,Default,,0,0,0,,{\an8}"Igen, Látja őket."
+Dialogue: 0,0:23:38.33,0:23:41.96,Default,,0,0,0,,Most is látok egyet. Mögötted áll..
+Dialogue: 0,0:23:41.96,0:23:44.71,Default,,0,0,0,,{\an8}"Igen, Látja őket."
+Dialogue: 0,0:23:41.96,0:23:44.71,Default,,0,0,0,,Legközelebb: \N"Igen, Látja őket."
+Dialogue: 0,0:23:44.71,0:23:46.50,Default,,0,0,0,,{\an8}"Igen, Látja őket."
+Dialogue: 0,0:23:44.71,0:23:46.50,Default,,0,0,0,,A következő rész a családról szól.
+Dialogue: 0,0:23:46.50,0:23:49.51,Default,,0,0,0,,{\an8}"Igen, Látja őket."
+Dialogue: 0,0:23:46.50,0:23:49.51,Default,,0,0,0,,Ijesztő dolgok történnek otthon? Mond, hogy nem!

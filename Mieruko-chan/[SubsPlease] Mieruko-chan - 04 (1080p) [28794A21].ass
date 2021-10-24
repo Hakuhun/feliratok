@@ -10,10 +10,10 @@ PlayResX: 640
 PlayResY: 360
 
 [Aegisub Project Garbage]
-Video Zoom Percent: 0.750000
-Scroll Position: 22
-Active Line: 44
-Video Position: 6907
+Video Zoom Percent: 0.625000
+Scroll Position: 232
+Active Line: 262
+Video Position: 14385
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -30,13 +30,13 @@ Dialogue: 0,0:01:00.35,0:01:01.56,Default,,0,0,0,,Mi?
 Dialogue: 0,0:01:14.69,0:01:16.40,Default,,0,0,0,,Beszéltem álmomban?
 Dialogue: 0,0:01:16.40,0:01:19.20,Default,,0,0,0,,Biztos valami rosszat álmodhattam.
 Dialogue: 0,0:02:55.00,0:02:56.25,Default,,0,0,0,,Ez az!
-Dialogue: 0,0:02:57.17,0:03:00.01,Default,,0,0,0,,Maradt még az őszi limitált Dawson gesztenyepudingból még.
+Dialogue: 0,0:02:57.17,0:03:00.01,Default,,0,0,0,,Még van az őszi limitált Dawson gesztenyepudingból!
 Dialogue: 0,0:03:00.01,0:03:05.01,Default,,0,0,0,,Emlékszem tavaly is ez volt. Nagyon jó volt.
 Dialogue: 0,0:03:05.01,0:03:07.31,Default,,0,0,0,,Tavaly egyet se ettem belőle.
 Dialogue: 0,0:03:07.31,0:03:09.27,Default,,0,0,0,,Akkor ez a puding biztos egy évet várt rád.
 Dialogue: 0,0:03:09.27,0:03:10.73,Default,,0,0,0,,Biztos romlott és undorító már. 
 Dialogue: 0,0:03:10.73,0:03:13.94,Default,,0,0,0,,Én is veszek belőle egyet.
-Dialogue: 0,0:03:13.94,0:03:19.28,Default,,0,0,0,,Ó! Akartam még dinnyéskenyeret is. Menj nyugodtan fizetni, majd utolérlek.
+Dialogue: 0,0:03:13.94,0:03:19.28,Default,,0,0,0,,Ó! Akartam még dinnyekenyeret is. Menj nyugodtan fizetni, majd utolérlek.
 Dialogue: 0,0:03:21.86,0:03:25.53,Default,,0,0,0,,Olyan jó lehet neki, hogy minden zsír a mellére megy.
 Dialogue: 0,0:03:25.53,0:03:28.04,Default,,0,0,0,,Heló! 
 Dialogue: 0,0:03:28.04,0:03:30.16,Default,,0,0,0,,110 jen...
@@ -49,7 +49,7 @@ Dialogue: 0,0:03:50.81,0:03:53.77,Default,,0,0,0,,Három... Három...
 Dialogue: 0,0:03:56.02,0:03:58.36,Default,,0,0,0,,Kér valami mást is?
 Dialogue: 0,0:03:59.78,0:04:02.20,Default,,0,0,0,,{\an8}"Kansai Oden: 60 jen"
 Dialogue: 0,0:04:03.91,0:04:04.95,Default,,0,0,0,,Egy haltortát is szeretnék.
-Dialogue: 0,0:04:04.95,0:04:06.66,Default,,0,0,0,,Rendicsek...
+Dialogue: 0,0:04:04.95,0:04:06.66,Default,,0,0,0,,Rendben.
 Dialogue: 0,0:04:06.66,0:04:09.12,Default,,0,0,0,,Ha... Hatv
 Dialogue: 0,0:04:09.12,0:04:12.91,Default,,0,0,0,,Hatvan... hatvankét jen lesz.
 Dialogue: 0,0:04:12.91,0:04:15.42,Default,,0,0,0,,Még a három százalékos adót is rászámolta.
@@ -65,262 +65,222 @@ Dialogue: 0,0:04:39.69,0:04:42.40,Default,,0,0,0,,{\an8}"VALÓS rémisztő tört
 Dialogue: 0,0:04:39.69,0:04:42.40,Default,,0,0,0,,{\an8}Oké!
 Dialogue: 0,0:04:39.69,0:04:42.40,Default,,0,0,0,,Oké!
 Dialogue: 0,0:04:43.40,0:04:46.16,Default,,0,0,0,,Üdv újra a "100 rémisztő fotó" műsorában.
-Dialogue: 0,0:04:46.16,0:04:50.70,Default,,0,0,0,,{\pos(134.222,145.778)}SZELLEM-AKTÁK:\NKülönös tapasztalatok
-Dialogue: 0,0:04:46.16,0:04:50.70,Default,,0,0,0,,Next up is this photo here.
-Dialogue: 0,0:04:50.70,0:04:57.17,Default,,0,0,0,,A beautiful fall scene by the river.\NTwo campers making happy memories.
-Dialogue: 0,0:04:57.17,0:05:01.00,Default,,0,0,0,,It may look perfectly\Nordinary at first glance,
-Dialogue: 0,0:05:01.00,0:05:04.42,Default,,0,0,0,,"What's lurking in the shadows..."\Nbut you already know\Nwhat's lurking in the shadows.
-Dialogue: 0,0:05:06.84,0:05:11.14,Default,,0,0,0,,That's right, take a closer look\Nat what's in the tent...
-Dialogue: 0,0:05:14.77,0:05:16.69,Default,,0,0,0,,C'mon, that's totally edited in!
-Dialogue: 0,0:05:16.69,0:05:20.52,Default,,0,0,0,,This kind of crap is why\Npeople are pulling the plug.
-Dialogue: 0,0:05:20.52,0:05:21.40,Default,,0,0,0,,Right?
-Dialogue: 0,0:05:21.40,0:05:24.03,Default,,0,0,0,,Y-Yeah, huh.
-Dialogue: 0,0:05:24.03,0:05:24.57,Default,,0,0,0,,We'll have more for you\Nafter the break!
-Dialogue: 0,0:05:24.57,0:05:27.41,Default,,0,0,0,,{\an8}"More after the break!!"\N"REAL Scary Stories"
-Dialogue: 0,0:05:24.57,0:05:27.41,Default,,0,0,0,,We'll have more for you\Nafter the break!
-Dialogue: 0,0:05:27.41,0:05:30.58,Default,,0,0,0,,{\an8}"More after the break!!"\N"REAL Scary Stories"
-Dialogue: 0,0:05:27.41,0:05:30.58,Default,,0,0,0,,Don't touch that dial,\Nor you'll be cursed!
-Dialogue: 0,0:05:30.58,0:05:32.33,Default,,0,0,0,,{\an8}"More after the break!!"\N"REAL Scary Stories"
-Dialogue: 0,0:05:30.58,0:05:32.33,Default,,0,0,0,,Commercials already?! C'mon, man!
-Dialogue: 0,0:05:32.33,0:05:34.50,Default,,0,0,0,,Commercials already?! C'mon, man!
-Dialogue: 0,0:05:34.50,0:05:36.71,Default,,0,0,0,,Seriously, this is why\Nnobody watches TV anymore!
-Dialogue: 0,0:05:44.05,0:05:49.05,Default,,0,0,0,,Fragrant, sparkling, and smooth...
-Dialogue: 0,0:05:49.05,0:05:51.89,Default,,0,0,0,,I-I'm gonna go get a drink!
-Dialogue: 0,0:05:51.89,0:05:54.47,Default,,0,0,0,,Huh? Why?
-Dialogue: 0,0:05:54.47,0:05:57.39,Default,,0,0,0,,I'm just kinda thirsty!
-Dialogue: 0,0:05:58.40,0:06:00.15,Default,,0,0,0,,Could you get me a soda?
-Dialogue: 0,0:06:11.99,0:06:13.45,Default,,0,0,0,,What should I get...
-Dialogue: 0,0:06:13.45,0:06:16.71,Default,,0,0,0,,{\an8}"Warm Red Bean Soup"
-Dialogue: 0,0:06:13.45,0:06:16.71,Default,,0,0,0,,It's pretty chilly, so maybe\NI'll do a warm red bean soup.
-Dialogue: 0,0:06:17.46,0:06:21.29,Default,,0,0,0,,I'll get one for Kyousuke, too.\NIt'll warm him up.
-Dialogue: 0,0:06:42.94,0:06:45.98,Default,,0,0,0,,A tiny old man!
-Dialogue: 0,0:06:45.98,0:06:51.03,Default,,0,0,0,,That's the same sort of monster that\Ncelebrities always say they've seen!
-Dialogue: 0,0:06:52.24,0:06:54.12,Default,,0,0,0,,They're actually real!
-Dialogue: 0,0:06:56.83,0:06:59.29,Default,,0,0,0,,It's kind of cute...
-Dialogue: 0,0:06:59.29,0:07:01.96,Default,,0,0,0,,Though maybe I only think that\N'cause the others are so gross.
-Dialogue: 0,0:07:03.71,0:07:05.30,Default,,0,0,0,,Mmkay.
-Dialogue: 0,0:07:05.30,0:07:07.13,Default,,0,0,0,,Whoops, my hand slipped.
-Dialogue: 0,0:07:11.26,0:07:14.85,Default,,0,0,0,,Oh, no, it rolled over here...
-Dialogue: 0,0:07:25.44,0:07:28.65,Default,,0,0,0,,A giant old man. Wow.
-Dialogue: 0,0:07:38.29,0:07:41.08,Default,,0,0,0,,Wh-Why'd I follow it?!
-Dialogue: 0,0:07:41.08,0:07:43.71,Default,,0,0,0,,I-It's fine.
-Dialogue: 0,0:07:43.71,0:07:46.25,Default,,0,0,0,,I just need to get my money and leave.
-Dialogue: 0,0:07:48.13,0:07:51.30,Default,,0,0,0,,Wow, where'd it go?
-Dialogue: 0,0:07:52.59,0:07:56.01,Default,,0,0,0,,Hey, there's my 500-yen coin!
-Dialogue: 0,0:07:56.01,0:07:58.10,Default,,0,0,0,,S-Slowly, now...
-Dialogue: 0,0:07:59.93,0:08:03.44,Default,,0,0,0,,I can't believe it rolled this far.
-Dialogue: 0,0:08:03.44,0:08:06.56,Default,,0,0,0,,Slowly, don't panic...
-Dialogue: 0,0:08:08.15,0:08:11.32,Default,,0,0,0,,J-Just a little further...
-Dialogue: 0,0:08:22.75,0:08:25.92,Default,,0,0,0,,If I run right now,\Nit might come after me!
-Dialogue: 0,0:08:25.92,0:08:28.92,Default,,0,0,0,,I-I gotta hurry!
-Dialogue: 0,0:08:28.92,0:08:33.13,Default,,0,0,0,,I-I've gotta get my 500-yen coin...
-Dialogue: 0,0:08:34.59,0:08:39.06,Default,,0,0,0,,Why are my hands shaking so bad?!\NI have to calm down!
-Dialogue: 0,0:08:51.23,0:08:53.45,Default,,0,0,0,,Wh-What the hell?!
-Dialogue: 0,0:08:55.11,0:08:59.28,Default,,0,0,0,,I'm gonna cry...
-Dialogue: 0,0:09:00.91,0:09:02.25,Default,,0,0,0,,I can't do this!
-Dialogue: 0,0:09:14.92,0:09:17.39,Default,,0,0,0,,My 500-yen coin...
-Dialogue: 0,0:09:18.51,0:09:22.22,Default,,0,0,0,,W-Wait, come back here with my 500 yen!
-Dialogue: 0,0:09:24.81,0:09:27.77,Default,,0,0,0,,I'm saved!
-Dialogue: 0,0:09:29.73,0:09:31.27,Default,,0,0,0,,There you are.
-Dialogue: 0,0:09:32.53,0:09:35.78,Default,,0,0,0,,Wait, where are the drinks?
-Dialogue: 0,0:09:35.78,0:09:38.53,Default,,0,0,0,,My money got stolen\Nbefore I could buy anything.
-Dialogue: 0,0:09:38.53,0:09:40.49,Default,,0,0,0,,What?! By who?!
-Dialogue: 0,0:09:40.49,0:09:42.49,Default,,0,0,0,,--A crow.\N--A crow?
-Dialogue: 0,0:09:42.49,0:09:43.75,Default,,0,0,0,,Yeah.
-Dialogue: 0,0:09:43.75,0:09:47.04,Default,,0,0,0,,Well, I'll go get it back for you!
-Dialogue: 0,0:09:47.04,0:09:49.50,Default,,0,0,0,,No, I owe it my life.
+Dialogue: 0,0:04:46.16,0:04:50.70,Default,,0,0,0,,{\pos(134.222,145.778)}SZELLEM-AKTÁK:\NKülönös történések
+Dialogue: 0,0:04:46.16,0:04:50.70,Default,,0,0,0,,Ez a következő fotó.
+Dialogue: 0,0:04:50.70,0:04:57.17,Default,,0,0,0,,Egy gyönyörű, folyó menti, őszi kép, nagyszerű emlék a két kempingező számára.
+Dialogue: 0,0:04:57.17,0:05:01.00,Default,,0,0,0,,Elsőre teljesen átlagosnak tűnik, de...
+Dialogue: 0,0:05:01.00,0:05:04.42,Default,,0,0,0,,mi rejtőzhet ott az árnyékban? \NÖnök már biztosan tudják, mit rejt az az árnyék.
+Dialogue: 0,0:05:06.84,0:05:11.14,Default,,0,0,0,,Így igaz, nézzék meg közelebbről, hogy mit rejt a sátor...
+Dialogue: 0,0:05:14.77,0:05:16.69,Default,,0,0,0,,Ne már, ez biztos oda lett szerkesztve...
+Dialogue: 0,0:05:16.69,0:05:20.52,Default,,0,0,0,,Emiatt a hülyeség miatt néznek egyre kevesebben tévét.
+Dialogue: 0,0:05:20.52,0:05:21.40,Default,,0,0,0,,Ugye?
+Dialogue: 0,0:05:21.40,0:05:24.03,Default,,0,0,0,,I..Igen, de...
+Dialogue: 0,0:05:24.03,0:05:27.41,Default,,0,0,0,,A reklám után még több félelmetes történettel folytatjuk!
+Dialogue: 0,0:05:24.57,0:05:32.33,Default,,0,0,0,,{\an8\pos(218.667,112.067)}"A reklám után folytatjuk!!"\N"VALÓS rémisztő történetek"
+Dialogue: 0,0:05:27.41,0:05:30.58,Default,,0,0,0,,Ha elkapcsol, átok száll magára! 
+Dialogue: 0,0:05:30.58,0:05:34.50,Default,,0,0,0,,Máris reklám? Ne már... 
+Dialogue: 0,0:05:30.58,0:05:36.71,Default,,0,0,0,,Most komolyan? Emiatt nem néz senki se tévét!
+Dialogue: 0,0:05:44.05,0:05:49.05,Default,,0,0,0,,Illatos, csillogó és sima...
+Dialogue: 0,0:05:49.05,0:05:51.89,Default,,0,0,0,,El...Elmegyek, veszek innivalót! 
+Dialogue: 0,0:05:51.89,0:05:54.47,Default,,0,0,0,,Hogyhogy?
+Dialogue: 0,0:05:54.47,0:05:57.39,Default,,0,0,0,,Kicsit szomjas vagyok.
+Dialogue: 0,0:05:58.40,0:06:00.15,Default,,0,0,0,,Hoznál nekem is egy üdítőt?
+Dialogue: 0,0:06:11.99,0:06:13.45,Default,,0,0,0,,Mit is vegyek?
+Dialogue: 0,0:06:13.45,0:06:16.71,Default,,0,0,0,,{\an8}"meleg vörösbab leves"
+Dialogue: 0,0:06:13.45,0:06:16.71,Default,,0,0,0,,Elég hűvös van, lehet jobban járok egy meleg levessel.
+Dialogue: 0,0:06:17.46,0:06:21.29,Default,,0,0,0,,Kyousukenak is viszek, melegedjen fel ő is.
+Dialogue: 0,0:06:42.94,0:06:45.98,Default,,0,0,0,,Aprócska öregember?
+Dialogue: 0,0:06:45.98,0:06:51.03,Default,,0,0,0,,A hírességek is mindig ilyenekről beszélnek a tévében.
+Dialogue: 0,0:06:52.24,0:06:54.12,Default,,0,0,0,,Úgy tűnik tényleg léteznek.
+Dialogue: 0,0:06:56.83,0:06:59.29,Default,,0,0,0,,Egész aranyos.
+Dialogue: 0,0:06:59.29,0:07:01.96,Default,,0,0,0,,Lehet csak azért gondolom ezt, mert a többi viszont undorító.
+Dialogue: 0,0:07:03.71,0:07:05.30,Default,,0,0,0,,Oké..
+Dialogue: 0,0:07:05.30,0:07:07.13,Default,,0,0,0,,Hupszi, megcsúszott a kezem.
+Dialogue: 0,0:07:11.26,0:07:14.85,Default,,0,0,0,,Ajaj, elgurult a pénzem.
+Dialogue: 0,0:07:25.44,0:07:28.65,Default,,0,0,0,,Egy hatalmas öregember. Azta...
+Dialogue: 0,0:07:38.29,0:07:41.08,Default,,0,0,0,,Mégis miért kellett követnem?
+Dialogue: 0,0:07:41.08,0:07:43.71,Default,,0,0,0,,Rendben van...
+Dialogue: 0,0:07:43.71,0:07:46.25,Default,,0,0,0,,Összeszedem a pénzt és mehetek is.
+Dialogue: 0,0:07:48.13,0:07:51.30,Default,,0,0,0,,Azta, hová tűnt a pénzem?
+Dialogue: 0,0:07:52.59,0:07:56.01,Default,,0,0,0,,Aha! Meg is van az 500 jenes érmém! 
+Dialogue: 0,0:07:56.01,0:07:58.10,Default,,0,0,0,,Most óvatosan...
+Dialogue: 0,0:07:59.93,0:08:03.44,Default,,0,0,0,,El sem hiszem, hogy idáig elgurult.
+Dialogue: 0,0:08:03.44,0:08:06.56,Default,,0,0,0,,Óvatosan, ne félj...
+Dialogue: 0,0:08:08.15,0:08:11.32,Default,,0,0,0,,Már csak egy kicsit kell kibírni.
+Dialogue: 0,0:08:22.75,0:08:25.92,Default,,0,0,0,,Ha most elszaladok, lehet követni kezd.
+Dialogue: 0,0:08:25.92,0:08:28.92,Default,,0,0,0,,Si... Sietnem kell.
+Dialogue: 0,0:08:28.92,0:08:33.13,Default,,0,0,0,,Fel kell szednem az 500 jenes érmém.
+Dialogue: 0,0:08:34.59,0:08:39.06,Default,,0,0,0,,Miért remeg így a kezem? Le kell nyugodnom.
+Dialogue: 0,0:08:51.23,0:08:53.45,Default,,0,0,0,,Mégis mi a fene ez?
+Dialogue: 0,0:08:55.11,0:08:59.28,Default,,0,0,0,,Mindjárt elsírom magam...
+Dialogue: 0,0:09:00.91,0:09:02.25,Default,,0,0,0,,Nem tudom megtenni.
+Dialogue: 0,0:09:14.92,0:09:17.39,Default,,0,0,0,,Az 500 jenem...
+Dialogue: 0,0:09:18.51,0:09:22.22,Default,,0,0,0,,Ácsi! Gyere vissza a pénzemmel! 
+Dialogue: 0,0:09:24.81,0:09:27.77,Default,,0,0,0,,Megmentett.
+Dialogue: 0,0:09:29.73,0:09:31.27,Default,,0,0,0,,Meg is jöttél?
+Dialogue: 0,0:09:32.53,0:09:35.78,Default,,0,0,0,,Hol vannak az italok?
+Dialogue: 0,0:09:35.78,0:09:38.53,Default,,0,0,0,,Ellopták a pénzem, még mielőtt bármit is vehettem volna.
+Dialogue: 0,0:09:38.53,0:09:40.49,Default,,0,0,0,,Micsoda? Ki volt az?
+Dialogue: 0,0:09:40.49,0:09:42.49,Default,,0,0,0,,Egy holló.
+Dialogue: 0,0:09:40.49,0:09:42.49,Default,,0,0,0,,{\an8}Egy holló?
+Dialogue: 0,0:09:42.49,0:09:43.75,Default,,0,0,0,,Igen.
+Dialogue: 0,0:09:43.75,0:09:47.04,Default,,0,0,0,,Megyek visszaszerzem tőle.
+Dialogue: 0,0:09:47.04,0:09:49.50,Default,,0,0,0,,Nem kell, az életemet köszönhetem neki.
 Dialogue: 0,0:09:49.50,0:09:51.04,Default,,0,0,0,,Huh?
-Dialogue: 0,0:10:08.77,0:10:10.36,Default,,0,0,0,,--Later!\N--See you tomorrow!
+Dialogue: 0,0:10:08.77,0:10:10.36,Default,,0,0,0,,{\an8}Később találkozunk! \NViszlát holnap.
 Dialogue: 0,0:10:10.36,0:10:12.27,Default,,0,0,0,,Bye-bye!
-Dialogue: 0,0:10:12.27,0:10:15.40,Default,,0,0,0,,Man, I'm hungry!
-Dialogue: 0,0:10:20.41,0:10:23.37,Default,,0,0,0,,Let's go underwear shopping next week!
-Dialogue: 0,0:10:23.37,0:10:25.20,Default,,0,0,0,,Sure. Bye-bye.
+Dialogue: 0,0:10:12.27,0:10:15.40,Default,,0,0,0,,Istenem, annyira éhes vagyok.
+Dialogue: 0,0:10:20.41,0:10:23.37,Default,,0,0,0,,Jövőhéten menjünk fehérneműt venni!
+Dialogue: 0,0:10:23.37,0:10:25.20,Default,,0,0,0,,Rendben. Bye-bye.
 Dialogue: 0,0:10:25.20,0:10:26.71,Default,,0,0,0,,Bye-bye!
-Dialogue: 0,0:10:30.25,0:10:34.34,Default,,0,0,0,,I saw so many scary monsters\Nat school today.
-Dialogue: 0,0:10:45.68,0:10:49.60,Default,,0,0,0,,Hey, where do you\Nwanna go today? I'm hungry!
-Dialogue: 0,0:10:54.32,0:10:56.53,Default,,0,0,0,,Your sister's acting weird?
-Dialogue: 0,0:10:56.53,0:10:57.86,Default,,0,0,0,,Yeah.
-Dialogue: 0,0:10:57.86,0:11:00.82,Default,,0,0,0,,By weird, like, how weird?
-Dialogue: 0,0:11:01.99,0:11:06.95,Default,,0,0,0,,She's sighing a lot,\Nand just in a weird mood all the time.
-Dialogue: 0,0:11:06.95,0:11:09.75,Default,,0,0,0,,And she keeps groaning\N"No, please" in her sleep.
-Dialogue: 0,0:11:09.75,0:11:12.00,Default,,0,0,0,,Got it! That {\i1}is {\i0}weird.
-Dialogue: 0,0:11:12.00,0:11:15.09,Default,,0,0,0,,--She's got a boyfriend!\N--What?
-Dialogue: 0,0:11:15.09,0:11:20.18,Default,,0,0,0,,My big sis acted like that\Nwhen she got a boyfriend.
-Dialogue: 0,0:11:20.18,0:11:21.13,Default,,0,0,0,,A boyfriend?
-Dialogue: 0,0:11:21.13,0:11:25.47,Default,,0,0,0,,--A pure maiden gives her beloved\Nher whole mind, body, and soul! Y'know?\N--Come to think of it,\Nshe made up that whole crow story...
-Dialogue: 0,0:11:25.47,0:11:27.14,Default,,0,0,0,,Nope, I don't!
-Dialogue: 0,0:11:27.14,0:11:30.35,Default,,0,0,0,,Also, I'm {\i1}super {\i0}faithful\Nwhen I'm with a guy!
-Dialogue: 0,0:11:30.35,0:11:33.48,Default,,0,0,0,,--Could she actually have a boyfriend?!\N--Though I've never been with a guy.
-Dialogue: 0,0:11:33.48,0:11:35.27,Default,,0,0,0,,If she does, then...
-Dialogue: 0,0:11:37.40,0:11:39.07,Default,,0,0,0,,She'd tell me, right?
-Dialogue: 0,0:11:40.03,0:11:42.70,Default,,0,0,0,,{\an8}"Bookstore"
-Dialogue: 0,0:11:42.70,0:11:46.08,Default,,0,0,0,,{\an8}"Paranormal Oddities"
-Dialogue: 0,0:11:50.54,0:11:54.25,Default,,0,0,0,,If she has a boyfriend,\Nthen why's she hiding it from me?
-Dialogue: 0,0:11:59.13,0:12:03.59,Default,,0,0,0,,Creepy bastard! I won't\Nlet you get away with this!
-Dialogue: 0,0:12:03.59,0:12:06.55,Default,,0,0,0,,I'm gonna keep my sister safe!
-Dialogue: 0,0:12:08.31,0:12:14.69,Default,,0,0,0,,{\an8}"Paranormal Oddities"
-Dialogue: 0,0:12:16.44,0:12:18.48,Default,,0,0,0,,Don't think this will help...
-Dialogue: 0,0:12:26.99,0:12:29.62,Default,,0,0,0,,I think I'm good.
-Dialogue: 0,0:12:32.29,0:12:33.50,Default,,0,0,0,,She's leaving?
-Dialogue: 0,0:12:34.46,0:12:36.42,Default,,0,0,0,,Is she going to meet up with him now?
-Dialogue: 0,0:12:37.21,0:12:41.05,Default,,0,0,0,,What book was she looking at, anyway?
-Dialogue: 0,0:12:41.97,0:12:44.97,Default,,0,0,0,,{\an8}"99 Ways to Please Your Lover"
-Dialogue: 0,0:12:52.89,0:12:55.90,Default,,0,0,0,,{\an8}"Hickeys are a sign of love"
-Dialogue: 0,0:12:57.86,0:13:00.65,Default,,0,0,0,,H-Hickeys?
-Dialogue: 0,0:13:36.02,0:13:40.02,Default,,0,0,0,,Somehow, I made it through another day.
-Dialogue: 0,0:13:45.45,0:13:47.99,Default,,0,0,0,,My sister's in the bath.
-Dialogue: 0,0:13:47.99,0:13:49.20,Default,,0,0,0,,Here goes!
-Dialogue: 0,0:13:53.45,0:13:58.21,Default,,0,0,0,,That monster in the bookstore\Nwas really scary.
-Dialogue: 0,0:13:58.21,0:14:01.34,Default,,0,0,0,,I can't believe I didn't react.
-Dialogue: 0,0:14:01.34,0:14:05.76,Default,,0,0,0,,Thankfully, all the ones after that\Njust stood around doing nothing.
-Dialogue: 0,0:14:07.76,0:14:12.76,Default,,0,0,0,,I'm really scared of the ones that hide\Nor jump out at me, 'cause I might react.
-Dialogue: 0,0:14:17.19,0:14:20.98,Default,,0,0,0,,Now I can't go to that bookstore anymore.
-Dialogue: 0,0:14:46.26,0:14:50.26,Default,,0,0,0,,I must be tired if\NI'm falling asleep in the bath.
-Dialogue: 0,0:14:57.39,0:15:01.19,Default,,0,0,0,,No! Not in the bathroom!
-Dialogue: 0,0:15:02.65,0:15:05.98,Default,,0,0,0,,Please, anywhere but in here!
-Dialogue: 0,0:15:06.94,0:15:09.78,Default,,0,0,0,,I-I've got no choice now.
-Dialogue: 0,0:15:09.78,0:15:12.99,Default,,0,0,0,,I'm just gonna have to\Nget out, a-and quick...
-Dialogue: 0,0:15:27.84,0:15:29.92,Default,,0,0,0,,S-Stop!
-Dialogue: 0,0:15:31.05,0:15:32.34,Default,,0,0,0,,I can't!
-Dialogue: 0,0:15:33.93,0:15:36.43,Default,,0,0,0,,Hey, Sis! I figured I'd join y--
-Dialogue: 0,0:15:40.64,0:15:42.73,Default,,0,0,0,,S-Sorry!
-Dialogue: 0,0:15:42.73,0:15:46.07,Default,,0,0,0,,Good, she doesn't have any hickeys.
-Dialogue: 0,0:15:46.07,0:15:51.07,Default,,0,0,0,,Wait, why am I so embarrassed?\NWe've taken tons of baths before!
-Dialogue: 0,0:15:51.07,0:15:53.41,Default,,0,0,0,,N-Nevermind, I'll take one later.
+Dialogue: 0,0:10:30.25,0:10:34.34,Default,,0,0,0,,Rengeteg ijesztő szörnnyel találkoztam ma az iskolában.
+Dialogue: 0,0:10:45.68,0:10:49.60,Default,,0,0,0,,{\an8}Hova mennél ma? Éhes vagyok.
+Dialogue: 0,0:10:54.32,0:10:56.53,Default,,0,0,0,,Furcsán viselkedik a nővéred?
+Dialogue: 0,0:10:56.53,0:10:57.86,Default,,0,0,0,,Igen.
+Dialogue: 0,0:10:57.86,0:11:00.82,Default,,0,0,0,,Mit értesz furcsa alatt?
+Dialogue: 0,0:11:01.99,0:11:06.95,Default,,0,0,0,,Sokat sopánkodik és mindig furcsa hangulatban van.
+Dialogue: 0,0:11:06.95,0:11:09.75,Default,,0,0,0,,Álmában, pedig mindig azt nyögdécseli, hogy "Kérlek ne".
+Dialogue: 0,0:11:09.75,0:11:12.00,Default,,0,0,0,,Értem! Ezt {\i1}tényleg{\i0} furcsa.
+Dialogue: 0,0:11:12.00,0:11:15.09,Default,,0,0,0,,--Biztos barátja lett!\N--Micsoda?
+Dialogue: 0,0:11:15.09,0:11:20.18,Default,,0,0,0,,Az én nővérem is pont így viselkedett, mikor összejött a barátjával.
+Dialogue: 0,0:11:20.18,0:11:21.13,Default,,0,0,0,,Egy barát? 
+Dialogue: 0,0:11:21.13,0:11:25.47,Default,,0,0,0,,{\an8}A tiszta szűz odaadja mindenét a szerelmének. A testét, lelkét. Érted?
+Dialogue: 0,0:11:21.13,0:11:25.47,Default,,0,0,0,,Most, hogy mondod, biztos kitalálta ezt az egész hollós cuccot is..
+Dialogue: 0,0:11:25.47,0:11:27.14,Default,,0,0,0,,Nem értem.
+Dialogue: 0,0:11:27.14,0:11:30.35,Default,,0,0,0,,{\an8}Én teljesen hű lennék egy sráchoz, amikor együtt vagyunk.
+Dialogue: 0,0:11:30.35,0:11:33.48,Default,,0,0,0,,Tényleg lenen egy barátja? 
+Dialogue: 0,0:11:30.35,0:11:33.48,Default,,0,0,0,,{\an8}Mondjuk még soha senkivel sem voltam együtt.
+Dialogue: 0,0:11:33.48,0:11:35.27,Default,,0,0,0,,Ha mégis együtt lenen valakivel...
+Dialogue: 0,0:11:37.40,0:11:39.07,Default,,0,0,0,,Csak elmondaná nekem, nem?
+Dialogue: 0,0:11:40.03,0:11:42.70,Default,,0,0,0,,{\an8}"Könyvesbolt"
+Dialogue: 0,0:11:42.70,0:11:46.08,Default,,0,0,0,,{\an8}"Paranormális furcsaságok"
+Dialogue: 0,0:11:50.54,0:11:54.25,Default,,0,0,0,,Ha tényleg van barátja, miért rejtegeti előlem?
+Dialogue: 0,0:11:59.13,0:12:03.59,Default,,0,0,0,,Mocskos barom! Nem hagyom, hogy ezt megúszd!
+Dialogue: 0,0:12:03.59,0:12:06.55,Default,,0,0,0,,Megmentem a nővéremet!
+Dialogue: 0,0:12:08.31,0:12:14.69,Default,,0,0,0,,{\an8}"Paranormális furcsaságok"
+Dialogue: 0,0:12:16.44,0:12:18.48,Default,,0,0,0,,Azt hiszem ez nem fog segíteni...
+Dialogue: 0,0:12:26.99,0:12:29.62,Default,,0,0,0,,Meg is vagyok.
+Dialogue: 0,0:12:32.29,0:12:33.50,Default,,0,0,0,,Elmegy?
+Dialogue: 0,0:12:34.46,0:12:36.42,Default,,0,0,0,,Találkozni fog vele?
+Dialogue: 0,0:12:37.21,0:12:41.05,Default,,0,0,0,,Mégis milyen könyvet nézett?
+Dialogue: 0,0:12:41.97,0:12:44.97,Default,,0,0,0,,{\an8}"99 módja, hogy elkényeztesd a szerelmed"
+Dialogue: 0,0:12:52.89,0:12:55.90,Default,,0,0,0,,{\an8}"Kiszívott foltok a szerelem jelei"
+Dialogue: 0,0:12:57.86,0:13:00.65,Default,,0,0,0,,Kiszívott foltok?
+Dialogue: 0,0:13:36.02,0:13:40.02,Default,,0,0,0,,Valahogy sikerült túlélnem ezt a napot is.
+Dialogue: 0,0:13:45.45,0:13:47.99,Default,,0,0,0,,Épp fürdik a nővérem.
+Dialogue: 0,0:13:47.99,0:13:49.20,Default,,0,0,0,,Most, vagy soha! 
+Dialogue: 0,0:13:53.45,0:13:58.21,Default,,0,0,0,,A könyvesbolti rémség nagyon ijesztő volt.
+Dialogue: 0,0:13:58.21,0:14:01.34,Default,,0,0,0,,El se hiszem, hogy kibírtam reakció nélkül.
+Dialogue: 0,0:14:01.34,0:14:05.76,Default,,0,0,0,,Hála az égnek az utána lévők csak álltak és semmit se csináltak.
+Dialogue: 0,0:14:07.76,0:14:12.76,Default,,0,0,0,,A legrosszabbak azok, akik bujkálnak, vagy hirtelen elém teremnek, nehéz őket ignorálni.
+Dialogue: 0,0:14:17.19,0:14:20.98,Default,,0,0,0,,Soha többé nem tudok majd a könyvesboltba menni.
+Dialogue: 0,0:14:46.26,0:14:50.26,Default,,0,0,0,,Biztos fáradt lehetek, ha a fürdőben el tudtam aludni.
+Dialogue: 0,0:14:57.39,0:15:01.19,Default,,0,0,0,,Ne! Csak a fürdőszobába ne! 
+Dialogue: 0,0:15:02.65,0:15:05.98,Default,,0,0,0,,Bárhol, csak itt ne. Kérlek! 
+Dialogue: 0,0:15:06.94,0:15:09.78,Default,,0,0,0,,Nincs más választásom most.
+Dialogue: 0,0:15:09.78,0:15:12.99,Default,,0,0,0,,Ki kell kelnem és gyorsan megtö....
+Dialogue: 0,0:15:27.84,0:15:29.92,Default,,0,0,0,,Állj! 
+Dialogue: 0,0:15:31.05,0:15:32.34,Default,,0,0,0,,Nem tehetem!
+Dialogue: 0,0:15:33.93,0:15:36.43,Default,,0,0,0,,Nővérkém, nem baj, ha csatlakozom....
+Dialogue: 0,0:15:40.64,0:15:42.73,Default,,0,0,0,,Bo... Bocsánat! 
+Dialogue: 0,0:15:42.73,0:15:46.07,Default,,0,0,0,,Jó, nincs egy zúzódás sem rajta.
+Dialogue: 0,0:15:46.07,0:15:51.07,Default,,0,0,0,,Most mégis miért érzem kellemetlenül magam? Rengetegszer fürödtünk már együtt.
+Dialogue: 0,0:15:51.07,0:15:53.41,Default,,0,0,0,,Mindegy is. Majd később lefürdöm egyedül.
 Dialogue: 0,0:15:53.41,0:15:54.70,Default,,0,0,0,,Kyousuke!
-Dialogue: 0,0:15:57.95,0:16:00.75,Default,,0,0,0,,I-I'll wash your back.
-Dialogue: 0,0:16:00.75,0:16:03.00,Default,,0,0,0,,Huh? Uh, okay!
-Dialogue: 0,0:16:08.21,0:16:10.38,Default,,0,0,0,,Sis, do you have a boyfriend?
-Dialogue: 0,0:16:10.38,0:16:12.34,Default,,0,0,0,,Why're you asking?
-Dialogue: 0,0:16:12.34,0:16:13.97,Default,,0,0,0,,So you {\i1}do {\i0}have one?
-Dialogue: 0,0:16:13.97,0:16:16.18,Default,,0,0,0,,No, I don't.
-Dialogue: 0,0:16:16.18,0:16:18.68,Default,,0,0,0,,You don't have to hide it from me.
-Dialogue: 0,0:16:18.68,0:16:21.85,Default,,0,0,0,,I'm not. I don't have one.
-Dialogue: 0,0:16:21.85,0:16:23.69,Default,,0,0,0,,Oh.
-Dialogue: 0,0:16:23.69,0:16:25.44,Default,,0,0,0,,How's school?
-Dialogue: 0,0:16:25.44,0:16:27.77,Default,,0,0,0,,It's okay.
-Dialogue: 0,0:16:43.16,0:16:46.54,Default,,0,0,0,,Every day, when I wake up, I make a wish.
-Dialogue: 0,0:16:46.54,0:16:49.71,Default,,0,0,0,,That today, I won't see them.
-Dialogue: 0,0:16:59.76,0:17:02.31,Default,,0,0,0,,The weather's so nice today.
-Dialogue: 0,0:17:04.10,0:17:08.77,Default,,0,0,0,,I feel like I see more\Nand more of them, every day.
-Dialogue: 0,0:17:10.07,0:17:14.40,Default,,0,0,0,,No, no, think good thoughts!
-Dialogue: 0,0:17:14.40,0:17:18.07,Default,,0,0,0,,That's right! I still have\Nthat Chestnut Pudding!
-Dialogue: 0,0:17:18.07,0:17:20.33,Default,,0,0,0,,I'll have that this morning!
-Dialogue: 0,0:17:20.33,0:17:23.41,Default,,0,0,0,,So for some reason, this crow is her--
-Dialogue: 0,0:17:23.41,0:17:26.17,Default,,0,0,0,,Oh, speak of the devil.
-Dialogue: 0,0:17:26.17,0:17:28.84,Default,,0,0,0,,You're finally up.
-Dialogue: 0,0:17:28.84,0:17:30.42,Default,,0,0,0,,Talk about sleeping late.
-Dialogue: 0,0:17:30.42,0:17:32.84,Default,,0,0,0,,Morning, Miko.
-Dialogue: 0,0:17:32.84,0:17:36.47,Default,,0,0,0,,I hear you made friends with a crow?
-Dialogue: 0,0:17:37.68,0:17:41.93,Default,,0,0,0,,C'mon, eat your breakfast.\NYou're going to be late.
-Dialogue: 0,0:17:42.64,0:17:45.27,Default,,0,0,0,,You're going to be late.
-Dialogue: 0,0:17:46.81,0:17:50.65,Default,,0,0,0,,You don't look so good, Sis.\NDidn't get enough sleep?
-Dialogue: 0,0:17:50.65,0:17:52.94,Default,,0,0,0,,Did you have a bad dream?
-Dialogue: 0,0:17:52.94,0:17:57.61,Default,,0,0,0,,Or did you boyfriend dump you?\NI'm kidding.
-Dialogue: 0,0:17:57.61,0:17:59.87,Default,,0,0,0,,Boyfriend?
-Dialogue: 0,0:17:59.87,0:18:02.79,Default,,0,0,0,,It's 'cause you sleep\Nwith your shirt all hiked up!
-Dialogue: 0,0:18:02.79,0:18:04.58,Default,,0,0,0,,Shirt?
-Dialogue: 0,0:18:04.58,0:18:07.25,Default,,0,0,0,,You don't have a boyfriend, right?
-Dialogue: 0,0:18:07.25,0:18:09.63,Default,,0,0,0,,Boyfriend?
-Dialogue: 0,0:18:12.59,0:18:14.84,Default,,0,0,0,,What's wrong, Miko?
-Dialogue: 0,0:18:14.84,0:18:18.39,Default,,0,0,0,,Huh? Oh, nothing.
-Dialogue: 0,0:18:18.39,0:18:20.05,Default,,0,0,0,,I'm fi...
-Dialogue: 0,0:18:22.47,0:18:24.64,Default,,0,0,0,,...ne.
-Dialogue: 0,0:18:24.64,0:18:30.06,Default,,0,0,0,,Oh hey, I saw pudding in the fridge.\NIs that yours, Sis?
-Dialogue: 0,0:18:30.06,0:18:31.31,Default,,0,0,0,,Yeah.
-Dialogue: 0,0:18:31.31,0:18:33.02,Default,,0,0,0,,Pudding?
-Dialogue: 0,0:18:33.02,0:18:35.78,Default,,0,0,0,,Better put your name on it,\Nor someone will eat it again.
-Dialogue: 0,0:18:35.78,0:18:38.11,Default,,0,0,0,,C'mon, Kyosuke, don't bring that up.
-Dialogue: 0,0:18:38.11,0:18:41.07,Default,,0,0,0,,You got into that huge fight with\Nyour dad when he ate yours last year.
-Dialogue: 0,0:18:41.07,0:18:43.99,Default,,0,0,0,,Seriously, don't bring it up!
-Dialogue: 0,0:18:45.00,0:18:48.58,Default,,0,0,0,,You were so mad,\NI thought you were possessed!
-Dialogue: 0,0:18:48.58,0:18:54.67,Default,,0,0,0,,Pudding... pudding... pudding...
-Dialogue: 0,0:18:54.67,0:18:56.21,Default,,0,0,0,,Thanks for breakfast.
-Dialogue: 0,0:18:56.21,0:18:58.51,Default,,0,0,0,,Is that all you're going to eat?
-Dialogue: 0,0:18:58.51,0:19:01.68,Default,,0,0,0,,Sorry, I'm just not hungry.
-Dialogue: 0,0:19:06.39,0:19:08.44,Default,,0,0,0,,I'm heading out.
-Dialogue: 0,0:19:13.40,0:19:14.86,Default,,0,0,0,,Stay safe!
-Dialogue: 0,0:19:14.86,0:19:16.65,Default,,0,0,0,,Have a good day!
-Dialogue: 0,0:19:16.65,0:19:18.49,Default,,0,0,0,,Pudding.
+Dialogue: 0,0:15:57.95,0:16:00.75,Default,,0,0,0,,Megmosom a hátad.
+Dialogue: 0,0:16:00.75,0:16:03.00,Default,,0,0,0,,Tessék? Rendben.
+Dialogue: 0,0:16:08.21,0:16:10.38,Default,,0,0,0,,Nővérkém, van barátod?
+Dialogue: 0,0:16:10.38,0:16:12.34,Default,,0,0,0,,Miért kérdezed?
+Dialogue: 0,0:16:12.34,0:16:13.97,Default,,0,0,0,,Akkor mégis csak van?
+Dialogue: 0,0:16:13.97,0:16:16.18,Default,,0,0,0,,Nem, nincs.
+Dialogue: 0,0:16:16.18,0:16:18.68,Default,,0,0,0,,Nem kell rejtegetned előlem.
+Dialogue: 0,0:16:18.68,0:16:21.85,Default,,0,0,0,,Nem csinálok én semmi ilyet. Nincs barátom.
+Dialogue: 0,0:16:21.85,0:16:23.69,Default,,0,0,0,,Ó!
+Dialogue: 0,0:16:23.69,0:16:25.44,Default,,0,0,0,,Milyen a suli?
+Dialogue: 0,0:16:25.44,0:16:27.77,Default,,0,0,0,,Egész jó.
+Dialogue: 0,0:16:43.16,0:16:46.54,Default,,0,0,0,,Minden reggel, amikor felkelek azt kívánom...
+Dialogue: 0,0:16:46.54,0:16:49.71,Default,,0,0,0,,..hogy ma ne lássam ezeket...
+Dialogue: 0,0:16:59.76,0:17:02.31,Default,,0,0,0,,Olyan jó idő volt ma.
+Dialogue: 0,0:17:04.10,0:17:08.77,Default,,0,0,0,,Viszont úgy érzem napról napra egyre többet látok.
+Dialogue: 0,0:17:10.07,0:17:14.40,Default,,0,0,0,,Nem szabad! Gondolj kellemes dolgokra!
+Dialogue: 0,0:17:14.40,0:17:18.07,Default,,0,0,0,,Igen. Ott van még a gesztenyepudingom.
+Dialogue: 0,0:17:18.07,0:17:20.33,Default,,0,0,0,,Meg is eszem majd reggel.
+Dialogue: 0,0:17:20.33,0:17:23.41,Default,,0,0,0,,Valamilyen oknál fogva a holló az ő....
+Dialogue: 0,0:17:23.41,0:17:26.17,Default,,0,0,0,,Á! Az emlegetett szamár!
+Dialogue: 0,0:17:26.17,0:17:28.84,Default,,0,0,0,,Végre felkeltél?
+Dialogue: 0,0:17:28.84,0:17:30.42,Default,,0,0,0,,Jó sokáig aludtál.
+Dialogue: 0,0:17:30.42,0:17:32.84,Default,,0,0,0,,Jó reggelt, Miko.
+Dialogue: 0,0:17:32.84,0:17:36.47,Default,,0,0,0,,Úgy hallom összebarátkoztál egy hollóval.
+Dialogue: 0,0:17:37.68,0:17:41.93,Default,,0,0,0,,Gyere reggelizz meg, el fogsz késni.
+Dialogue: 0,0:17:42.64,0:17:45.27,Default,,0,0,0,,El fogsz késni.
+Dialogue: 0,0:17:46.81,0:17:50.65,Default,,0,0,0,,Nem nézel ki túl jól nővérkém. Eleget aludtál?
+Dialogue: 0,0:17:50.65,0:17:52.94,Default,,0,0,0,,Rosszat álmodtál?
+Dialogue: 0,0:17:52.94,0:17:57.61,Default,,0,0,0,,Vagy dobott a barátod?\NCsak viccelek.
+Dialogue: 0,0:17:57.61,0:17:59.87,Default,,0,0,0,,Barát?
+Dialogue: 0,0:17:59.87,0:18:02.79,Default,,0,0,0,,Biztos azért van, mert felcsúszott pólóban alszol! 
+Dialogue: 0,0:18:02.79,0:18:04.58,Default,,0,0,0,,Póló?
+Dialogue: 0,0:18:04.58,0:18:07.25,Default,,0,0,0,,Ugye nincs még barátod? 
+Dialogue: 0,0:18:07.25,0:18:09.63,Default,,0,0,0,,Barát?
+Dialogue: 0,0:18:12.59,0:18:14.84,Default,,0,0,0,,Mi a baj Miko?
+Dialogue: 0,0:18:14.84,0:18:18.39,Default,,0,0,0,,Áh, semmiség.
+Dialogue: 0,0:18:18.39,0:18:20.05,Default,,0,0,0,,Rendben...
+Dialogue: 0,0:18:22.47,0:18:24.64,Default,,0,0,0,,vagyok...
+Dialogue: 0,0:18:24.64,0:18:30.06,Default,,0,0,0,,Láttam egy pudingot a hűtőben, a tiéd az?
+Dialogue: 0,0:18:30.06,0:18:31.31,Default,,0,0,0,,Igen.
+Dialogue: 0,0:18:31.31,0:18:33.02,Default,,0,0,0,,Puding?
+Dialogue: 0,0:18:33.02,0:18:35.78,Default,,0,0,0,,Jobb ha ráírod a neved, még mielőtt megeszi valaki.
+Dialogue: 0,0:18:35.78,0:18:38.11,Default,,0,0,0,,Ne már Kyosuke, ne hozd fel ezt.
+Dialogue: 0,0:18:38.11,0:18:41.07,Default,,0,0,0,,Tavaly is jól összebalhéztatok apáddal, mert megette a tiédet.
+Dialogue: 0,0:18:41.07,0:18:43.99,Default,,0,0,0,,Tényleg ne hozd fel! 
+Dialogue: 0,0:18:45.00,0:18:48.58,Default,,0,0,0,,Olyan ideges voltál, azt hittem megszálltak téged.
+Dialogue: 0,0:18:48.58,0:18:54.67,Default,,0,0,0,,Puding... Puding... Puding...
+Dialogue: 0,0:18:54.67,0:18:56.21,Default,,0,0,0,,Köszönöm a reggelit.
+Dialogue: 0,0:18:56.21,0:18:58.51,Default,,0,0,0,,Már jól is laktál?
+Dialogue: 0,0:18:58.51,0:19:01.68,Default,,0,0,0,,Bocsánat, nem vagyok éhes.
+Dialogue: 0,0:19:06.39,0:19:08.44,Default,,0,0,0,,Elmentem! 
+Dialogue: 0,0:19:13.40,0:19:14.86,Default,,0,0,0,,Vigyázz magadra.
+Dialogue: 0,0:19:14.86,0:19:16.65,Default,,0,0,0,,Legyen szép napod!
+Dialogue: 0,0:19:16.65,0:19:18.49,Default,,0,0,0,,Puding.
 Dialogue: 0,0:19:23.24,0:19:24.87,Default,,0,0,0,,Miko?
-Dialogue: 0,0:19:24.87,0:19:28.12,Default,,0,0,0,,What, forget something?
-Dialogue: 0,0:19:28.12,0:19:32.46,Default,,0,0,0,,Sheesh, you need\Nto double-check sooner, hon.
-Dialogue: 0,0:19:32.54,0:19:36.76,Default,,0,0,0,,{\an8}"Chestnut Pudding"
-Dialogue: 0,0:19:58.23,0:20:00.07,Default,,0,0,0,,Wow.
-Dialogue: 0,0:20:01.99,0:20:05.37,Default,,0,0,0,,You're giving it to me, Miko?
-Dialogue: 0,0:20:06.49,0:20:11.58,Default,,0,0,0,,I'm sorry for eating it last year.
-Dialogue: 0,0:20:11.58,0:20:14.54,Default,,0,0,0,,I really wanted to apologize to you,
-Dialogue: 0,0:20:14.54,0:20:17.09,Default,,0,0,0,,but I never got the chance.
-Dialogue: 0,0:20:17.09,0:20:20.88,Default,,0,0,0,,I never got to make it up to you.
-Dialogue: 0,0:20:29.39,0:20:31.64,Default,,0,0,0,,See you later.
-Dialogue: 0,0:20:31.64,0:20:32.81,Default,,0,0,0,,Pudding?
-Dialogue: 0,0:20:32.81,0:20:35.69,Default,,0,0,0,,No, that's for me!
-Dialogue: 0,0:20:39.32,0:20:42.61,Default,,0,0,0,,{\i1}If you see me, when you see me,{\i0}\N{\i1}do you see me? Look at me!{\i0}
-Dialogue: 0,0:20:42.61,0:20:45.91,Default,,0,0,0,,{\i1}You saw? You saw me, right?{\i0}\N{\i1}You're seeing me, right? {\i0}
-Dialogue: 0,0:20:45.91,0:20:47.62,Default,,0,0,0,,{\i1}(Feel my wrath,{\i0}\N{\i1}feel my wrath, feel my wrath!){\i0}
-Dialogue: 0,0:20:47.62,0:20:49.45,Default,,0,0,0,,{\i1}(See my blood,{\i0}\N{\i1}see my blood, see my blood!){\i0}
-Dialogue: 0,0:20:49.45,0:20:51.20,Default,,0,0,0,,{\i1}(Fear my grudge,{\i0}\N{\i1}fear my grudge, fear my grudge!){\i0}
-Dialogue: 0,0:20:51.20,0:20:53.12,Default,,0,0,0,,{\i1}(Suffer my curse,{\i0}\N{\i1}suffer my curse, suffer my curse!){\i0}
-Dialogue: 0,0:20:53.12,0:20:54.50,Default,,0,0,0,,{\i1}Turn towards me, baby{\i0}
-Dialogue: 0,0:20:54.50,0:20:56.67,Default,,0,0,0,,{\i1}C'mon, come closer now{\i0}
-Dialogue: 0,0:20:56.67,0:20:58.04,Default,,0,0,0,,{\i1}Don't look away, non non non{\i0}
-Dialogue: 0,0:20:58.04,0:21:00.13,Default,,0,0,0,,{\i1}Look me right in the eye{\i0}
-Dialogue: 0,0:21:00.13,0:21:01.51,Default,,0,0,0,,{\i1}In the flames, or in the trees,{\i0}
-Dialogue: 0,0:21:01.51,0:21:03.72,Default,,0,0,0,,{\i1}Or even in your bed{\i0}
-Dialogue: 0,0:21:03.72,0:21:05.14,Default,,0,0,0,,{\i1}I'll be with you forever{\i0}
-Dialogue: 0,0:21:05.14,0:21:07.10,Default,,0,0,0,,{\i1}I'll want you forever{\i0}
-Dialogue: 0,0:21:07.10,0:21:09.72,Default,,0,0,0,,{\i1}I want to haunt you,{\i0}\N{\i1}I want to rest in peace,{\i0}
-Dialogue: 0,0:21:09.72,0:21:12.31,Default,,0,0,0,,{\i1}I want to find spiritual release{\i0}
-Dialogue: 0,0:21:12.31,0:21:15.23,Default,,0,0,0,,{\i1}Give poor, little me{\i0}
-Dialogue: 0,0:21:15.23,0:21:17.02,Default,,0,0,0,,{\i1}All your comfort{\i0}
-Dialogue: 0,0:21:17.02,0:21:21.36,Default,,0,0,0,,{\i1}All your offerings{\i0}
-Dialogue: 0,0:21:21.36,0:21:25.57,Default,,0,0,0,,{\i1}All of your soul{\i0}
-Dialogue: 0,0:21:25.57,0:21:28.66,Default,,0,0,0,,{\i1}Won't you let me haunt you,{\i0}\N{\i1}I'm obsessed with you{\i0}
-Dialogue: 0,0:21:28.66,0:21:32.66,Default,,0,0,0,,{\i1}There's no getting away,{\i0}\N{\i1}I won't let you escape{\i0}
-Dialogue: 0,0:21:32.66,0:21:35.54,Default,,0,0,0,,{\i1}Won't you let me haunt you,{\i0}\N{\i1}my curse will bind you{\i0}
-Dialogue: 0,0:21:35.54,0:21:39.67,Default,,0,0,0,,{\i1}I'll tie you down{\i0}\N{\i1}so you can't run away{\i0}
-Dialogue: 0,0:21:39.67,0:21:42.80,Default,,0,0,0,,{\i1}Won't you let me haunt you,{\i0}\N{\i1}around the clock{\i0}
-Dialogue: 0,0:21:42.80,0:21:46.80,Default,,0,0,0,,{\i1}I know you can feel my hand{\i0}\N{\i1}on your shoulder{\i0}
-Dialogue: 0,0:21:46.80,0:21:49.64,Default,,0,0,0,,{\i1}Won't you let me haunt you,{\i0}\N{\i1}turn around{\i0}
-Dialogue: 0,0:21:49.64,0:21:53.89,Default,,0,0,0,,{\i1}I'm right behind you{\i0}
-Dialogue: 0,0:21:53.89,0:21:56.94,Default,,0,0,0,,{\i1}If you see me, when you see me,{\i0}\N{\i1}do you see me? Look at me!{\i0}
-Dialogue: 0,0:21:56.94,0:22:00.02,Default,,0,0,0,,{\i1}If you can't see me, I'll stay until you see,{\i0}\N{\i1}until you say you see{\i0}
-Dialogue: 0,0:22:00.02,0:22:03.32,Default,,0,0,0,,{\i1}If you see me, when you see me,{\i0}\N{\i1}do you see me? Look at me!{\i0}
-Dialogue: 0,0:22:03.32,0:22:06.70,Default,,0,0,0,,{\i1}You saw? You saw me, right?{\i0}\N{\i1}You're seeing me, right?{\i0}
-Dialogue: 0,0:22:08.11,0:22:10.74,Default,,0,0,0,,Welcome back to "100 Horrific Photos."
-Dialogue: 0,0:22:10.74,0:22:14.50,Default,,0,0,0,,{\an8}"GHOST FILES: Extraordinary Experiences"
-Dialogue: 0,0:22:10.74,0:22:14.50,Default,,0,0,0,,Next up is this photo here.
-Dialogue: 0,0:22:15.46,0:22:21.92,Default,,0,0,0,,A beautiful fall scene by the river.\NTwo campers making happy memories.
-Dialogue: 0,0:22:21.92,0:22:25.63,Default,,0,0,0,,It may look perfectly\Nordinary at first glance,
-Dialogue: 0,0:22:25.63,0:22:29.01,Default,,0,0,0,,"What's lurking in the shadows..."\Nbut you already know\Nwhat's lurking in the shadows.
-Dialogue: 0,0:22:31.60,0:22:35.89,Default,,0,0,0,,That's right, take a closer look\Nat what's in the tent...
-Dialogue: 0,0:22:39.52,0:22:41.44,Default,,0,0,0,,C'mon, that's totally edited in!
-Dialogue: 0,0:22:41.44,0:22:45.28,Default,,0,0,0,,This kind of crap is why\Npeople are pulling the plug.
-Dialogue: 0,0:22:45.28,0:22:46.07,Default,,0,0,0,,Right?
-Dialogue: 0,0:22:46.07,0:22:48.78,Default,,0,0,0,,Y-Yeah, huh.
-Dialogue: 0,0:22:48.78,0:22:49.28,Default,,0,0,0,,We'll have more for you\Nafter the break!
-Dialogue: 0,0:22:49.28,0:22:57.00,Default,,0,0,0,,{\an8}"More after the break!!"\N"REAL Scary Stories"
-Dialogue: 0,0:22:49.28,0:22:57.00,Default,,0,0,0,,We'll have more for you\Nafter the break!
-Dialogue: 0,0:22:52.16,0:22:55.29,Default,,0,0,0,,{\an8}"More after the break!!"\N"REAL Scary Stories"
-Dialogue: 0,0:22:52.16,0:22:55.29,Default,,0,0,0,,Don't touch that dial,\Nor you'll be cursed!
-Dialogue: 0,0:22:55.29,0:22:57.00,Default,,0,0,0,,{\an8}"More after the break!!"\N"REAL Scary Stories"
-Dialogue: 0,0:22:55.29,0:22:57.00,Default,,0,0,0,,Commercials already?! C'mon, man!
-Dialogue: 0,0:22:57.00,0:22:59.25,Default,,0,0,0,,Commercials already?! C'mon, man!
-Dialogue: 0,0:22:59.25,0:23:01.38,Default,,0,0,0,,Seriously, this is why\Nnobody watches TV anymore!
-Dialogue: 0,0:23:10.68,0:23:15.68,Default,,0,0,0,,Fragrant, sparkling, and smooth...
-Dialogue: 0,0:23:15.68,0:23:18.60,Default,,0,0,0,,I-I'm gonna go get a drink!
-Dialogue: 0,0:23:18.60,0:23:21.15,Default,,0,0,0,,Huh? Why?
-Dialogue: 0,0:23:21.15,0:23:23.98,Default,,0,0,0,,I'm just kinda thirsty!
-Dialogue: 0,0:23:25.07,0:23:26.78,Default,,0,0,0,,Could you get me a soda?
-Dialogue: 0,0:23:29.90,0:23:34.03,Default,,0,0,0,,That's not the sort of stuff\Nkids should be watching.
-Dialogue: 0,0:23:34.99,0:23:35.74,Default,,0,0,0,,{\an8}"I See Them, Too"
-Dialogue: 0,0:23:35.74,0:23:38.79,Default,,0,0,0,,{\an8}"I See Them, Too"
-Dialogue: 0,0:23:35.74,0:23:38.79,Default,,0,0,0,,You see, not all ghosties\Nare bad guys!
-Dialogue: 0,0:23:38.79,0:23:41.42,Default,,0,0,0,,{\an8}"I See Them, Too"
-Dialogue: 0,0:23:38.79,0:23:41.42,Default,,0,0,0,,So give them a holler\Nevery now and then!
-Dialogue: 0,0:23:41.42,0:23:43.38,Default,,0,0,0,,{\an8}"I See Them, Too"
-Dialogue: 0,0:23:41.42,0:23:43.38,Default,,0,0,0,,They might just\Ntalk back!
-Dialogue: 0,0:23:43.38,0:23:46.38,Default,,0,0,0,,{\an8}"I See Them, Too"
-Dialogue: 0,0:23:43.38,0:23:46.38,Default,,0,0,0,,Next time, episode 5!\N"I See Them, Too!"
-Dialogue: 0,0:23:46.38,0:23:49.67,Default,,0,0,0,,{\an8}"I See Them, Too"
-Dialogue: 0,0:23:46.38,0:23:49.67,Default,,0,0,0,,And we'll finally get to see\Na new character, too!
+Dialogue: 0,0:19:24.87,0:19:28.12,Default,,0,0,0,,Elfelejtettél valamit?
+Dialogue: 0,0:19:28.12,0:19:32.46,Default,,0,0,0,,Nézz körbe többször is kincsem.
+Dialogue: 0,0:19:32.54,0:19:36.76,Default,,0,0,0,,{\an8}"Gesztenyepuding"
+Dialogue: 0,0:19:58.23,0:20:00.07,Default,,0,0,0,,Azta!
+Dialogue: 0,0:20:01.99,0:20:05.37,Default,,0,0,0,,Nekem adod Miko?
+Dialogue: 0,0:20:06.49,0:20:11.58,Default,,0,0,0,,Sajnálom, hogy tavaly megettem a tiéd.
+Dialogue: 0,0:20:11.58,0:20:14.54,Default,,0,0,0,,Bocsánatot akartam kérni.
+Dialogue: 0,0:20:14.54,0:20:17.09,Default,,0,0,0,,Sose volt rá alkalmam.
+Dialogue: 0,0:20:17.09,0:20:20.88,Default,,0,0,0,,Sose tudtam elmondani neked.
+Dialogue: 0,0:20:29.39,0:20:31.64,Default,,0,0,0,,Jó étvágyat.
+Dialogue: 0,0:20:31.64,0:20:32.81,Default,,0,0,0,,Puding?
+Dialogue: 0,0:20:32.81,0:20:35.69,Default,,0,0,0,,Nem lehet! Nekem adod?
+Dialogue: 0,0:22:08.11,0:22:10.74,Default,,0,0,0,,Üdv újra a "100 rémisztő fotó" műsorában.
+Dialogue: 0,0:22:10.74,0:22:14.50,Default,,0,0,0,,{\pos(134.222,145.778)}SZELLEM-AKTÁK:\NKülönös történések
+Dialogue: 0,0:22:10.74,0:22:14.50,Default,,0,0,0,,Ez a következő fotó.
+Dialogue: 0,0:22:15.46,0:22:21.92,Default,,0,0,0,,Egy gyönyörű, folyó menti, őszi kép, nagyszerű emlék a két kempingező számára.
+Dialogue: 0,0:22:21.92,0:22:25.63,Default,,0,0,0,,Elsőre teljesen átlagosnak tűnik, de...
+Dialogue: 0,0:22:25.63,0:22:29.01,Default,,0,0,0,,mi rejtőzhet ott az árnyékban? \NÖnök már biztosan tudják, mit rejt az az árnyék.
+Dialogue: 0,0:22:31.60,0:22:35.89,Default,,0,0,0,,Így igaz, nézzék meg közelebbről, hogy mit rejt a sátor...
+Dialogue: 0,0:22:39.52,0:22:41.44,Default,,0,0,0,,Ne már, ez biztos oda lett szerkesztve...
+Dialogue: 0,0:22:41.44,0:22:45.28,Default,,0,0,0,,Emiatt a hülyeség miatt néznek egyre kevesebben tévét.
+Dialogue: 0,0:22:45.28,0:22:46.07,Default,,0,0,0,,Ugye?
+Dialogue: 0,0:22:46.07,0:22:48.78,Default,,0,0,0,,I..Igen, de...
+Dialogue: 0,0:22:48.78,0:22:57.00,Default,,0,0,0,,A reklám után még több félelmetes történettel folytatjuk!
+Dialogue: 0,0:22:49.28,0:22:57.00,Default,,0,0,0,,{\pos(218.667,112.067)}"A reklám után folytatjuk!!"\N"VALÓS rémisztő történetek" 
+Dialogue: 0,0:22:52.16,0:22:55.29,Default,,0,0,0,,Ha elkapcsol, átok száll magára!
+Dialogue: 0,0:22:55.29,0:22:59.25,Default,,0,0,0,,Máris reklám? Ne már... 
+Dialogue: 0,0:22:59.25,0:23:01.38,Default,,0,0,0,,Most komolyan? Emiatt nem néz senki se tévét!
+Dialogue: 0,0:23:10.68,0:23:15.68,Default,,0,0,0,,Illatos, csillogó és sima...
+Dialogue: 0,0:23:15.68,0:23:18.60,Default,,0,0,0,,El...Elmegyek, veszek innivalót!
+Dialogue: 0,0:23:18.60,0:23:21.15,Default,,0,0,0,,Hogyhogy?
+Dialogue: 0,0:23:21.15,0:23:23.98,Default,,0,0,0,,Kicsit szomjas vagyok?
+Dialogue: 0,0:23:25.07,0:23:26.78,Default,,0,0,0,,Hoznál nekem is egy üdítőt?
+Dialogue: 0,0:23:29.90,0:23:34.03,Default,,0,0,0,,Nem szabadna ilyen gyerekeknek néznie.
+Dialogue: 0,0:23:34.99,0:23:49.67,Default,,0,0,0,,{\an8\pos(331.733,112.6)}"Én is látom őket"
+Dialogue: 0,0:23:35.74,0:23:38.79,Default,,0,0,0,,Látod látod. Nem minden szellem rossz.
+Dialogue: 0,0:23:38.79,0:23:41.42,Default,,0,0,0,,Néha az ért köszönj rájuk!
+Dialogue: 0,0:23:41.42,0:23:43.38,Default,,0,0,0,,Lehet, hogy visszaválaszolnak!
+Dialogue: 0,0:23:43.38,0:23:46.38,Default,,0,0,0,,A következő részben.\NÉn is látom őket.
+Dialogue: 0,0:23:46.38,0:23:49.67,Default,,0,0,0,,Végre találkozhatunk egy új karakterrel is! 
+Dialogue: 0,0:09:55.00,0:10:00.00,Default,,0,0,0,,{\an1}FORDÍTOTTA: HAKU\Nhakuhun@gmail.com\NFeliratok letölthetők: \Nhttps://github.com/Hakuhun/feliratok
+Dialogue: 0,0:09:55.00,0:10:00.00,Default,,0,0,0,,{\an9}Feliratok elérhetők: \Nhttps://github.com/Hakuhun/feliratok

@@ -11,9 +11,9 @@ PlayResY: 360
 
 [Aegisub Project Garbage]
 Video Zoom Percent: 0.750000
-Scroll Position: 292
-Active Line: 308
-Video Position: 31471
+Scroll Position: 275
+Active Line: 297
+Video Position: 17127
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -29,7 +29,7 @@ Dialogue: 0,0:00:35.95,0:00:37.20,Default,,0,0,0,,Elértem.
 Dialogue: 0,0:00:37.20,0:00:38.74,Default,,0,0,0,,Indulunk.
 Dialogue: 0,0:00:51.55,0:00:53.55,Default,,0,0,0,,"Kettőkor találkozunk a Steabucks-ban, ugye?"
 Dialogue: 0,0:00:53.55,0:00:55.55,Default,,0,0,0,,{\an8}"Kettőkor találkozunk a Steabucks-ban, ugye?"
-Dialogue: 0,0:00:53.55,0:00:55.55,Default,,0,0,0,,Igen, kettőkor.\NÉpp hogy oda fogok érni.
+Dialogue: 0,0:00:53.55,0:00:55.55,Default,,0,0,0,,Igen, kettőkor.\NÉpp, hogy oda fogok érni.
 Dialogue: 0,0:01:04.31,0:01:06.85,Default,,0,0,0,,Muszáj lesz beszereznem pár imafüzért ma.
 Dialogue: 0,0:01:09.98,0:01:11.98,Default,,0,0,0,,Elég drágának tűnnek...
 Dialogue: 0,0:01:22.70,0:01:24.16,Default,,0,0,0,,Nem lehet.
@@ -54,7 +54,7 @@ Dialogue: 0,0:04:23.68,0:04:28.68,Default,,0,0,0,,{\an8}"Ichigaya állomás"
 Dialogue: 0,0:04:23.68,0:04:28.68,Default,,0,0,0,,A következő megálló Ichigaya állomás. Ichigaya állomás.
 Dialogue: 0,0:04:28.93,0:04:30.77,Default,,0,0,0,,Ez az én megállóm...
 Dialogue: 0,0:04:47.78,0:04:49.99,Default,,0,0,0,,{\an8}"Leszállásjelző"
-Dialogue: 0,0:04:47.78,0:04:49.99,Default,,0,0,0,,Leszállásjelző
+Dialogue: 0,0:04:47.78,0:04:49.99,Default,,0,0,0,,A következő megállóban leszálló utasok.
 Dialogue: 0,0:04:49.99,0:04:51.75,Default,,0,0,0,,{\an8}"Leszállásjelző"
 Dialogue: 0,0:04:56.62,0:04:58.75,Default,,0,0,0,,Nem lehet.
 Dialogue: 0,0:04:58.75,0:05:00.88,Default,,0,0,0,,Mit képzelsz?
@@ -62,7 +62,7 @@ Dialogue: 0,0:05:02.88,0:05:05.55,Default,,0,0,0,,Istenemre...
 Dialogue: 0,0:05:12.93,0:05:17.65,Default,,0,0,0,,Ichigaya állomás. Ichigaya állomás.
 Dialogue: 0,0:05:17.65,0:05:20.61,Default,,0,0,0,,Óvatosan szálljanak le.
 Dialogue: 0,0:05:23.44,0:05:25.32,Default,,0,0,0,,Istenemre...
-Dialogue: 0,0:05:25.32,0:05:29.37,Default,,0,0,0,,Ichigaya állomás?\NLe akar szállni valaki?
+Dialogue: 0,0:05:25.32,0:05:29.37,Default,,0,0,0,,Ichigaya állomás.\NLe akar szállni valaki?
 Dialogue: 0,0:05:31.62,0:05:33.29,Default,,0,0,0,,Indulunk.
 Dialogue: 0,0:05:41.92,0:05:43.30,Default,,0,0,0,,Most komolyan?
 Dialogue: 0,0:05:43.30,0:05:44.92,Default,,0,0,0,,Nem lehet.
@@ -74,7 +74,7 @@ Dialogue: 0,0:06:06.78,0:06:09.45,Default,,0,0,0,,{\an8}"Én is. Rossz vonatra s
 Dialogue: 0,0:06:09.45,0:06:11.95,Default,,0,0,0,,{\an8}"Steabucks"
 Dialogue: 0,0:06:20.96,0:06:23.71,Default,,0,0,0,,Remélem Hana hamar ideér.
 Dialogue: 0,0:06:25.38,0:06:28.63,Default,,0,0,0,,Most komolyan.. Bízhatsz bennem.
-Dialogue: 0,0:06:28.63,0:06:30.34,Default,,0,0,0,,Igazat beszélek,.
+Dialogue: 0,0:06:28.63,0:06:30.34,Default,,0,0,0,,Igazat beszélek.
 Dialogue: 0,0:06:30.34,0:06:33.51,Default,,0,0,0,,Szeretlek...
 Dialogue: 0,0:06:33.51,0:06:35.72,Default,,0,0,0,,Ne hagy el...
 Dialogue: 0,0:06:37.43,0:06:38.48,Default,,0,0,0,,Igen.
@@ -85,9 +85,9 @@ Dialogue: 0,0:06:43.36,0:06:45.82,Default,,0,0,0,,Szeretlek...
 Dialogue: 0,0:06:47.57,0:06:49.53,Default,,0,0,0,,Én is szeretlek.
 Dialogue: 0,0:06:49.53,0:06:53.62,Default,,0,0,0,,Szeretlek... Szeretlek... Szeretlek...
 Dialogue: 0,0:06:54.66,0:06:56.87,Default,,0,0,0,,Mindennél jobban.. Mindennél jobban...
-Dialogue: 0,0:07:11.18,0:07:12.51,Default,,0,0,0,,Jajj ne! 
+Dialogue: 0,0:07:11.18,0:07:12.51,Default,,0,0,0,,Jaj ne! 
 Dialogue: 0,0:07:12.51,0:07:17.31,Default,,0,0,0,,Mi a fene?
-Dialogue: 0,0:07:17.31,0:07:20.39,Default,,0,0,0,,Engem szúr. Jajj ne.
+Dialogue: 0,0:07:17.31,0:07:20.39,Default,,0,0,0,,Engem néz. Jaj ne.
 Dialogue: 0,0:07:24.69,0:07:26.90,Default,,0,0,0,,Pedig nem is bámultam őt.
 Dialogue: 0,0:07:30.11,0:07:31.99,Default,,0,0,0,,Esküszöm! 
 Dialogue: 0,0:07:39.00,0:07:41.96,Default,,0,0,0,,Mi? Felém tart?
@@ -99,11 +99,11 @@ Dialogue: 0,0:08:00.89,0:08:05.73,Default,,0,0,0,,Nem szerezheted meg magadnak!
 Dialogue: 0,0:08:08.82,0:08:11.86,Default,,0,0,0,,Azta! Milyen menő már! 
 Dialogue: 0,0:08:14.36,0:08:19.74,Default,,0,0,0,,Yuu-kun az {\i1\b1}enyém{\b0}!{\i0}
 Dialogue: 0,0:08:19.74,0:08:24.75,Default,,0,0,0,,Az enyém! Az enyém! Az enyém...
-Dialogue: 0,0:08:27.96,0:08:31.05,Default,,0,0,0,,Íme a Kígyó fogás! 
+Dialogue: 0,0:08:27.96,0:08:31.05,Default,,0,0,0,,Nézzék azt a Kígyó fogást! 
 Dialogue: 0,0:08:31.05,0:08:36.97,Default,,0,0,0,,Nem lehetsz férfiasabb, mint Bosszantó Anakonda!
 Dialogue: 0,0:08:36.97,0:08:39.76,Default,,0,0,0,,Anakonda annyira menő...
 Dialogue: 0,0:08:53.95,0:08:56.61,Default,,0,0,0,,Szeretem a nagy, macsó férfiakat.
-Dialogue: 0,0:09:01.95,0:09:03.79,Default,,0,0,0,,Ő rendben van,.
+Dialogue: 0,0:09:01.95,0:09:03.79,Default,,0,0,0,,Ő rendben van.
 Dialogue: 0,0:09:11.09,0:09:12.30,Default,,0,0,0,,Be...
 Dialogue: 0,0:09:13.01,0:09:15.72,Default,,0,0,0,,Bevette.
 Dialogue: 0,0:09:18.47,0:09:21.72,Default,,0,0,0,,Nem bírom tovább, el akarok menni.
@@ -121,11 +121,11 @@ Dialogue: 0,0:09:49.33,0:09:50.96,Default,,0,0,0,,Várj. Te ismered ezt a sráco
 Dialogue: 0,0:09:50.96,0:09:52.59,Default,,0,0,0,,Mégis kit? Induljunk.
 Dialogue: 0,0:09:52.59,0:09:56.13,Default,,0,0,0,,Ó nem ihatnék én is valamit előtte? Szeretnék egy vörösbabos lattét. 
 Dialogue: 0,0:09:56.13,0:09:57.13,Default,,0,0,0,,Persze.
-Dialogue: 0,0:09:57.13,0:10:00.10,Default,,0,0,0,,Mi a fene? Biztos voltam benne, hogy eljön velem.
+Dialogue: 0,0:09:57.13,0:10:00.10,Default,,0,0,0,,Mi a fene? Biztos voltam benne, hogy ráharap a horogra.
 Dialogue: 0,0:10:00.10,0:10:02.97,Default,,0,0,0,,Yuu-kun! Bocsánat a késésért.
 Dialogue: 0,0:10:02.97,0:10:04.64,Default,,0,0,0,,Szia! 
 Dialogue: 0,0:10:07.48,0:10:08.48,Default,,0,0,0,,Szeretlek.
-Dialogue: 0,0:10:08.48,0:10:10.11,Default,,0,0,0,,Menjünk együtt.
+Dialogue: 0,0:10:08.48,0:10:10.11,Default,,0,0,0,,Jöjjünk össze.
 Dialogue: 0,0:10:10.11,0:10:11.52,Default,,0,0,0,,Soha ne hagyj magamra.
 Dialogue: 0,0:10:11.52,0:10:14.44,Default,,0,0,0,,Nem tudok élni nélküled.
 Dialogue: 0,0:10:14.44,0:10:17.40,Default,,0,0,0,,Csak nem ezzel a lánnyal beszélgettél? 
@@ -143,7 +143,7 @@ Dialogue: 0,0:10:44.01,0:10:44.72,Default,,0,0,0,,{\an8}"Donki"
 Dialogue: 0,0:10:49.27,0:10:51.69,Default,,0,0,0,,Oké, ennek működnie kell.
 Dialogue: 0,0:10:52.11,0:10:55.53,Default,,0,0,0,,Vagy legalábbis remélem, hogy működni fog...
 Dialogue: 0,0:10:52.11,0:10:55.53,Default,,0,0,0,,Donkiban tényleg mindenfélét árulnak.
-Dialogue: 0,0:10:55.53,0:11:00.03,Default,,0,0,0,,Hogyhogy vettél még egy nyuszit? Azt hittem legalább egy millió van belőle otthon neked.
+Dialogue: 0,0:10:55.53,0:11:00.03,Default,,0,0,0,,Hogyhogy vettél még egy nyuszit? Azt hittem legalább egy millió van belőle otthon.
 Dialogue: 0,0:11:00.03,0:11:03.03,Default,,0,0,0,,Minél több, annál cukibb.
 Dialogue: 0,0:11:04.53,0:11:07.41,Default,,0,0,0,,Meg amúgy is. Te meg négy imafüzért is vettél!
 Dialogue: 0,0:11:07.41,0:11:10.75,Default,,0,0,0,,Hát.. Minél több, annál erősebb, nem?
@@ -159,12 +159,12 @@ Dialogue: 0,0:11:44.62,0:11:47.04,Default,,0,0,0,,Tessék.
 Dialogue: 0,0:11:44.62,0:11:47.04,Default,,0,0,0,,{\an8}Tényleg?
 Dialogue: 0,0:11:47.04,0:11:49.75,Default,,0,0,0,,{\an8}Köszönöm!
 Dialogue: 0,0:11:47.04,0:11:49.75,Default,,0,0,0,,Igen.
-Dialogue: 0,0:11:49.75,0:11:52.33,Default,,0,0,0,,Gondoskodnom kell Hana védelméről is.
-Dialogue: 0,0:11:52.33,0:11:54.38,Default,,0,0,0,,There we go!
+Dialogue: 0,0:11:49.75,0:11:52.33,Default,,0,0,0,,Gondoskodnom kell Hana biztonságáról is.
+Dialogue: 0,0:11:52.33,0:11:54.38,Default,,0,0,0,,Meg is van.
 Dialogue: 0,0:11:55.42,0:11:58.76,Default,,0,0,0,,Most már mind a kettőnknek van és én is trendi lettem! 
 Dialogue: 0,0:11:58.76,0:12:02.09,Default,,0,0,0,,Gyere, meghívlak egy popi bocira.
 Dialogue: 0,0:12:02.09,0:12:03.39,Default,,0,0,0,,Mi az a popi buci?
-Dialogue: 0,0:12:03.39,0:12:07.06,Default,,0,0,0,,Egy puha és ruganyos süti,. Annyira jó! 
+Dialogue: 0,0:12:03.39,0:12:07.06,Default,,0,0,0,,Egy puha és ruganyos süti. Nagyon finom!
 Dialogue: 0,0:12:11.02,0:12:13.02,Default,,0,0,0,,A pékség pont a sikátor másik oldalán van.
 Dialogue: 0,0:12:20.07,0:12:21.61,Default,,0,0,0,,Gyere Miko!
 Dialogue: 0,0:12:21.61,0:12:23.15,Default,,0,0,0,,Várj csak Hana.
@@ -184,12 +184,12 @@ Dialogue: 0,0:13:17.17,0:13:19.13,Default,,0,0,0,,Huh? Miko?
 Dialogue: 0,0:13:19.13,0:13:22.84,Default,,0,0,0,,Mi a baj? Kifűződött a cipőd? 
 Dialogue: 0,0:13:22.84,0:13:23.80,Default,,0,0,0,,Miko?
 Dialogue: 0,0:13:23.80,0:13:27.59,Default,,0,0,0,,{\an8}Viszket! Viszket! Viszket!
-Dialogue: 0,0:13:23.80,0:13:27.59,Default,,0,0,0,,Minden ranben, csak szétmentek a füzérjeim. 
+Dialogue: 0,0:13:23.80,0:13:27.59,Default,,0,0,0,,Minden rendben, csak szétmentek a füzérjeim. 
 Dialogue: 0,0:13:27.59,0:13:30.35,Default,,0,0,0,,Mi? Még csak most vetted őket.
 Dialogue: 0,0:13:30.35,0:13:33.43,Default,,0,0,0,,Maradj ott, marad ott.
 Dialogue: 0,0:13:33.43,0:13:36.35,Default,,0,0,0,,Bele fog sétálni.
-Dialogue: 0,0:13:36.35,0:13:39.36,Default,,0,0,0,,Viszont, ha megállítóm, ki fogja szúrni, hogy észrevettem.
-Dialogue: 0,0:13:39.36,0:13:42.90,Default,,0,0,0,,ha körbemennék, akkor is látná, hogy észrevettem.
+Dialogue: 0,0:13:36.35,0:13:39.36,Default,,0,0,0,,Viszont, ha megállítom, ki fogja szúrni, hogy észrevettem.
+Dialogue: 0,0:13:39.36,0:13:42.90,Default,,0,0,0,,ha megkerülném, akkor is észrevenne.
 Dialogue: 0,0:13:42.90,0:13:44.03,Default,,0,0,0,,De..
 Dialogue: 0,0:13:47.11,0:13:48.82,Default,,0,0,0,,Nem hagyhatom Hanát...
 Dialogue: 0,0:13:57.92,0:14:00.04,Default,,0,0,0,,Nem látlak!
@@ -197,7 +197,7 @@ Dialogue: 0,0:14:04.17,0:14:07.01,Default,,0,0,0,,Mind a kettő szétment?
 Dialogue: 0,0:14:07.01,0:14:09.72,Default,,0,0,0,,Vissza kéne menni a Donkiba, hogy fizessék vissza.
 Dialogue: 0,0:14:09.72,0:14:10.93,Default,,0,0,0,,Nem kell.
 Dialogue: 0,0:14:10.93,0:14:13.01,Default,,0,0,0,,Most vetted őket még!
-Dialogue: 0,0:14:13.01,0:14:15.39,Default,,0,0,0,,Tényeg. Nem szükséges.
+Dialogue: 0,0:14:13.01,0:14:15.39,Default,,0,0,0,,Tényleg. Nem szükséges.
 Dialogue: 0,0:14:15.39,0:14:18.48,Default,,0,0,0,,Igaz, ha nem látod őket, akkor simán átsétálsz rajtuk.
 Dialogue: 0,0:14:18.48,0:14:21.56,Default,,0,0,0,,Ügyes volt.
 Dialogue: 0,0:14:21.56,0:14:22.94,Default,,0,0,0,,Mi?
@@ -205,7 +205,7 @@ Dialogue: 0,0:14:23.61,0:14:25.36,Default,,0,0,0,,Közel volt.
 Dialogue: 0,0:14:27.24,0:14:29.99,Default,,0,0,0,,Észre se vettem, hogy elhagytam.
 Dialogue: 0,0:14:29.99,0:14:31.32,Default,,0,0,0,,Hana, várj...
 Dialogue: 0,0:14:40.83,0:14:43.21,Default,,0,0,0,,Kö.. Köszönöm.
-Dialogue: 0,0:14:43.21,0:14:45.92,Default,,0,0,0,,Annyira kedves vagy, Mikor.
+Dialogue: 0,0:14:43.21,0:14:45.92,Default,,0,0,0,,Annyira kedves vagy, Miko.
 Dialogue: 0,0:14:45.92,0:14:47.13,Default,,0,0,0,,Mm-hmm.
 Dialogue: 0,0:14:49.88,0:14:52.39,Default,,0,0,0,,Miko?! Miért pityeregsz?
 Dialogue: 0,0:14:52.39,0:14:53.64,Default,,0,0,0,,Nincs baj.
@@ -217,7 +217,7 @@ Dialogue: 0,0:15:03.94,0:15:05.78,Default,,0,0,0,,{\an8}Légyszi!
 Dialogue: 0,0:15:07.24,0:15:10.61,Default,,0,0,0,,Viszket!
 Dialogue: 0,0:15:15.74,0:15:17.04,Default,,0,0,0,,Annyira finomak.
 Dialogue: 0,0:15:17.04,0:15:21.25,Default,,0,0,0,,Ugye? Épp, mint egy {\i1}igazi{\i0} popi!
-Dialogue: 0,0:15:21.25,0:15:23.42,Default,,0,0,0,,Én még sosem faltam popit előtte.
+Dialogue: 0,0:15:21.25,0:15:23.42,Default,,0,0,0,,Én még sosem ettem popit előtte.
 Dialogue: 0,0:15:26.96,0:15:29.34,Default,,0,0,0,,Még mindig olyan dühös vagyok!
 Dialogue: 0,0:15:29.34,0:15:31.63,Default,,0,0,0,,Mert lemaradtunk az epresről?
 Dialogue: 0,0:15:31.63,0:15:36.60,Default,,0,0,0,,Nem! Az imafüzérjeid miatt. \NMég teljesen újak voltak.
@@ -226,20 +226,20 @@ Dialogue: 0,0:15:39.23,0:15:40.60,Default,,0,0,0,,Nem.
 Dialogue: 0,0:15:43.15,0:15:44.69,Default,,0,0,0,,Azok a tieid.
 Dialogue: 0,0:15:44.69,0:15:47.69,Default,,0,0,0,,Okhé.
 Dialogue: 0,0:15:47.69,0:15:49.74,Default,,0,0,0,,Oh ighen!
-Dialogue: 0,0:15:52.07,0:15:54.16,Default,,0,0,0,,Ishmehek ehgy hehjeht.
+Dialogue: 0,0:15:52.07,0:15:54.16,Default,,0,0,0,,Ishmehek ehgy hehlyeht.
 Dialogue: 0,0:16:01.04,0:16:03.29,Default,,0,0,0,,Tényleg csodálatos!
 Dialogue: 0,0:16:05.00,0:16:07.46,Default,,0,0,0,,{\an8}--Mama, mit csinál ez a lány?\N--Ne is figyelj rá!
 Dialogue: 0,0:16:07.46,0:16:09.96,Default,,0,0,0,,{\an8}"Jövendölés és ördögűzés:\NA KERESZTANYA! 
 Dialogue: 0,0:16:12.01,0:16:13.51,Default,,0,0,0,,Majd máskor kipróbálom.
 Dialogue: 0,0:16:13.51,0:16:16.26,Default,,0,0,0,,Épp ahogy mondta.
 Dialogue: 0,0:16:16.26,0:16:19.35,Default,,0,0,0,,Ezzel a karkötővel minden férfi flörtöl velem.
-Dialogue: 0,0:16:21.81,0:16:26.48,Default,,0,0,0,,Ha kifogyna az erejéből, újra töltöm majd 30000 Yenért.
+Dialogue: 0,0:16:21.81,0:16:26.48,Default,,0,0,0,,Ha kifogyna az erejéből, újra töltöm majd 30000 jenért.
 Dialogue: 0,0:16:26.48,0:16:29.23,Default,,0,0,0,,Mindenképpen visszajövök. Ön egy igazi angyal.
 Dialogue: 0,0:16:32.49,0:16:36.66,Default,,0,0,0,,Már csak két alkalommal fog működni.
 Dialogue: 0,0:16:36.66,0:16:39.16,Default,,0,0,0,,Tíz, húsz, harminc...
-Dialogue: 0,0:16:39.16,0:16:42.75,Default,,0,0,0,,ha megadom a bérét a színészeknek akik oda mentek hozzá Sakurában...
+Dialogue: 0,0:16:39.16,0:16:42.75,Default,,0,0,0,,Ha megadom a bérét a színészeknek akik oda mentek hozzá Sakurában...
 Dialogue: 0,0:16:44.29,0:16:47.67,Default,,0,0,0,,...muszáj lesz egy új vevőt találnom, gyorsan.
-Dialogue: 0,0:16:48.75,0:16:51.42,Default,,0,0,0,,Ajj a derakam....
+Dialogue: 0,0:16:48.75,0:16:51.42,Default,,0,0,0,,Ú a derekam....
 Dialogue: 0,0:16:57.10,0:16:58.85,Default,,0,0,0,,{\an8}"Édesanyám...."
 Dialogue: 0,0:17:01.85,0:17:05.85,Default,,0,0,0,,{\an8}"egyre idősebb vagy, gyere lakj nálunk, aggódom érted.
 Dialogue: 0,0:17:06.44,0:17:10.36,Default,,0,0,0,,Nem leszek én senki terhére sem.
@@ -253,16 +253,16 @@ Dialogue: 0,0:17:25.58,0:17:29.09,Default,,0,0,0,,Azt hiszem van is egy igazán 
 Dialogue: 0,0:17:29.09,0:17:31.46,Default,,0,0,0,,Ez az! Szerencsések vagyunk.
 Dialogue: 0,0:17:31.46,0:17:32.51,Default,,0,0,0,,Igen.
 Dialogue: 0,0:17:32.51,0:17:35.05,Default,,0,0,0,,A kölyköknek nincs pénze.
-Dialogue: 0,0:17:35.05,0:17:38.43,Default,,0,0,0,,Jó lesz nekik egy random 3000 Yenes.
+Dialogue: 0,0:17:35.05,0:17:38.43,Default,,0,0,0,,Jó lesz nekik bármelyik 3000 jenes.
 Dialogue: 0,0:17:38.43,0:17:42.89,Default,,0,0,0,,Tessék. Ebben hihetetlen mennyiségű védőerő van.
 Dialogue: 0,0:17:42.89,0:17:44.64,Default,,0,0,0,,Tényleg {\i1}erősnek{\i0} néz ki.
 Dialogue: 0,0:17:44.64,0:17:46.69,Default,,0,0,0,,Felpróbálhatom?
 Dialogue: 0,0:17:46.69,0:17:48.19,Default,,0,0,0,,Persze, csak nyugodtan.
 Dialogue: 0,0:17:59.99,0:18:03.29,Default,,0,0,0,,Ez is eltört?
-Dialogue: 0,0:18:03.29,0:18:07.17,Default,,0,0,0,,Bocsánat drága. A gumi biztos régi már benne.
+Dialogue: 0,0:18:03.29,0:18:07.17,Default,,0,0,0,,Bocsánat drága. A gumi biztosan régi volt már benne.
 Dialogue: 0,0:18:07.17,0:18:09.17,Default,,0,0,0,,Hozok egy másikat.
 Dialogue: 0,0:18:11.29,0:18:15.80,Default,,0,0,0,,Lehet, hogy egy csaló vagyok, de nem hiába neveznek Keresztanyának.
-Dialogue: 0,0:18:18.93,0:18:23.47,Default,,0,0,0,,Épp, hogy ki tudom venni a körülötte lévő feketeséget...
+Dialogue: 0,0:18:18.93,0:18:23.47,Default,,0,0,0,,Nehezen, de ki tudom venni az őt körülvevő sötétséget...
 Dialogue: 0,0:18:23.47,0:18:25.85,Default,,0,0,0,,Miért követ engem?
 Dialogue: 0,0:18:28.85,0:18:32.27,Default,,0,0,0,,A Napnál is világosabban látom ezeket a szörnyű dolgokat.
 Dialogue: 0,0:18:32.27,0:18:34.19,Default,,0,0,0,,Viszket...
@@ -277,27 +277,27 @@ Dialogue: 0,0:18:47.46,0:18:49.46,Default,,0,0,0,,Erős kislány.
 Dialogue: 0,0:18:49.46,0:18:51.33,Default,,0,0,0,,A barátja pedig...
 Dialogue: 0,0:18:53.67,0:18:57.51,Default,,0,0,0,,Erőteljes aurával rendelkezik!
 Dialogue: 0,0:18:57.51,0:19:00.84,Default,,0,0,0,,Egészen lenyűgöző.
-Dialogue: 0,0:19:00.84,0:19:03.30,Default,,0,0,0,,Micsoda? Remélem semmi szörnyű nem történit veled.
+Dialogue: 0,0:19:00.84,0:19:03.30,Default,,0,0,0,,Micsoda? Remélem semmi szörnyű nem történt veled.
 Dialogue: 0,0:19:03.30,0:19:06.35,Default,,0,0,0,,Nem. Semmi ijesztő.
 Dialogue: 0,0:19:06.35,0:19:07.73,Default,,0,0,0,,--Tényleg?\N--Tényleg.
 Dialogue: 0,0:19:07.73,0:19:09.10,Default,,0,0,0,,De tényleg?
 Dialogue: 0,0:19:09.10,0:19:10.56,Default,,0,0,0,,De tényleg.
 Dialogue: 0,0:19:10.56,0:19:17.40,Default,,0,0,0,,Ő nem látja, de biztos magához vonz mindenféle szörnyűséget.
 Dialogue: 0,0:19:17.40,0:19:20.07,Default,,0,0,0,,Akkor miért kérdez ilyeneket a néni?
-Dialogue: 0,0:19:20.07,0:19:22.87,Default,,0,0,0,,Csak arra kíváncsi, hogy jó a látásom, vagy van vele valami furcsaság.
-Dialogue: 0,0:19:22.87,0:19:24.16,Default,,0,0,0,,Furcsaság?
+Dialogue: 0,0:19:20.07,0:19:22.87,Default,,0,0,0,,Csak a látásomra kíváncsi. Nem látok-e furcsa dolgokat?
+Dialogue: 0,0:19:22.87,0:19:24.16,Default,,0,0,0,,Furcsa dolgokat?
 Dialogue: 0,0:19:24.16,0:19:25.79,Default,,0,0,0,,Igen. Például közellátó vagyok-e.
 Dialogue: 0,0:19:25.79,0:19:30.87,Default,,0,0,0,,Ilyen aurával jöhet bármi, nem lesz hatással rá.
 Dialogue: 0,0:19:30.87,0:19:32.63,Default,,0,0,0,,Elnézést.
 Dialogue: 0,0:19:32.63,0:19:33.84,Default,,0,0,0,,Van más imafüzére is? 
 Dialogue: 0,0:19:33.84,0:19:37.05,Default,,0,0,0,,Igen, egy pillanat.
 Dialogue: 0,0:19:38.59,0:19:42.47,Default,,0,0,0,,Biztos látja őket.
-Dialogue: 0,0:19:42.47,0:19:47.35,Default,,0,0,0,,Nem vagyok olyan romlott, hogy cserben hagyjak egy a kisunokámmal egy idős lányt.
+Dialogue: 0,0:19:42.47,0:19:47.35,Default,,0,0,0,,Nem vagyok olyan romlott, hogy cserben hagyjak a kisunokámmal egy idős lányt.
 Dialogue: 0,0:19:47.35,0:19:52.02,Default,,0,0,0,,Sose gondoltam volna, hogy eljön az a nap, hogy ezt használjam...
 Dialogue: 0,0:19:54.56,0:19:58.44,Default,,0,0,0,,Ne aggódjon aranyom.
 Dialogue: 0,0:20:00.11,0:20:05.16,Default,,0,0,0,,Ez a legerősebb a gyűjteményemből.
 Dialogue: 0,0:20:11.46,0:20:13.58,Default,,0,0,0,,Gyönyörű!
-Dialogue: 0,0:20:15.46,0:20:20.13,Default,,0,0,0,,Teljesen más szint, mint az előző pár.
+Dialogue: 0,0:20:15.46,0:20:20.13,Default,,0,0,0,,Teljesen más szint, mint az előző.
 Dialogue: 0,0:20:20.13,0:20:22.84,Default,,0,0,0,,Nem is kérek érte semmit, csak vigye el.
 Dialogue: 0,0:20:22.84,0:20:25.68,Default,,0,0,0,,Biztos?
 Dialogue: 0,0:20:25.68,0:20:27.06,Default,,0,0,0,,Igen.
@@ -307,7 +307,7 @@ Dialogue: 0,0:20:45.45,0:20:48.70,Default,,0,0,0,,Mára már úgy is a pénzemn�
 Dialogue: 0,0:20:49.66,0:20:51.62,Default,,0,0,0,,A {\b1\i1}Keresztanya{\b0\i0} visszatért! 
 Dialogue: 0,0:20:51.62,0:21:00.46,Default,,0,0,0,,{\i1}Úgy viszket...{\i0}
 Dialogue: 0,0:21:12.02,0:21:14.69,Default,,0,0,0,,Jól van asszonyom?
-Dialogue: 0,0:21:22.36,0:21:25.11,Default,,0,0,0,,Ezek a gyöngyök olyan gyengék.
+Dialogue: 0,0:21:22.36,0:21:25.11,Default,,0,0,0,,Ezek a imafüzérek olyan gyengék.
 Dialogue: 0,0:21:25.11,0:21:27.70,Default,,0,0,0,,Még az enyém is szétesett.
 Dialogue: 0,0:21:27.70,0:21:30.41,Default,,0,0,0,,Azt hiszem végeztem az imafüzérekkel mára.
 Dialogue: 0,0:21:30.41,0:21:31.75,Default,,0,0,0,,Én is.

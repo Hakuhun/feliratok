@@ -11,9 +11,9 @@ PlayResY: 360
 
 [Aegisub Project Garbage]
 Video Zoom Percent: 0.625000
-Scroll Position: 216
-Active Line: 241
-Video Position: 34272
+Scroll Position: 202
+Active Line: 232
+Video Position: 20445
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -31,7 +31,7 @@ Dialogue: 0,0:00:21.39,0:00:25.98,Default,,0,0,0,,Tessék? Ó, de, tényleg...
 Dialogue: 0,0:00:25.98,0:00:27.48,Default,,0,0,0,,..aranyos.
 Dialogue: 0,0:00:25.98,0:00:27.48,Default,,0,0,0,,{\an8}Tényleg?
 Dialogue: 0,0:00:27.48,0:00:30.98,Default,,0,0,0,,{\an8}"Erdei macifeltámadás torta"
-Dialogue: 0,0:00:27.48,0:00:30.98,Default,,0,0,0,,Meg is kéne venni.
+Dialogue: 0,0:00:27.48,0:00:30.98,Default,,0,0,0,,Meg is kéne vennem.
 Dialogue: 0,0:00:31.36,0:00:36.91,Default,,0,0,0,,Ez a legkelendőbb tortánk és ez az utolsó szeletünk mára!
 Dialogue: 0,0:00:37.62,0:00:40.70,Default,,0,0,0,,Istenem! Mit gondolsz Miko?
 Dialogue: 0,0:00:40.70,0:00:42.08,Default,,0,0,0,,Miről?
@@ -49,14 +49,14 @@ Dialogue: 0,0:01:13.44,0:01:14.65,Default,,0,0,0,,A popi buci nekem is jól hang
 Dialogue: 0,0:01:14.65,0:01:16.45,Default,,0,0,0,,Oké!
 Dialogue: 0,0:01:16.45,0:01:19.91,Default,,0,0,0,,Lehet még maradt az epresből is.
 Dialogue: 0,0:01:29.54,0:01:30.88,Default,,0,0,0,,Miko?
-Dialogue: 0,0:01:32.75,0:01:36.30,Default,,0,0,0,,Várj, akkor menjünk tényleg Mrs. D-be.
+Dialogue: 0,0:01:32.75,0:01:36.30,Default,,0,0,0,,Mrs. D tényleg jól hangzik. Menjünk oda.
 Dialogue: 0,0:01:36.30,0:01:38.22,Default,,0,0,0,,Rendben, jól hangzik! 
 Dialogue: 0,0:01:38.22,0:01:41.39,Default,,0,0,0,,Utána megnézhetnénk a  BLADD Fashiont is.
 Dialogue: 0,0:01:41.39,0:01:43.77,Default,,0,0,0,,Oké.
 Dialogue: 0,0:01:41.39,0:01:43.77,Default,,0,0,0,,{\an8}Ezaz!
 Dialogue: 0,0:01:43.77,0:01:47.31,Default,,0,0,0,,Lehet holnapra is veszek majd egy-két fánkot.
-Dialogue: 0,0:03:46.51,0:03:50.64,Default,,0,0,0,,A tegnapi lény {\i1}sokkal{\i0} rosszabbul festett, mint a többi szokott.
-Dialogue: 0,0:04:15.17,0:04:19.17,Default,,0,0,0,,Már megint megállt az órám?
+Dialogue: 0,0:03:46.51,0:03:50.64,Default,,0,0,0,,A tegnapi lény {\i1}sokkal{\i0} rosszabbul festett, mint a többi.
+Dialogue: 0,0:04:15.17,0:04:19.17,Default,,0,0,0,,Megint megállt az órám?
 Dialogue: 0,0:04:20.67,0:04:22.92,Default,,0,0,0,,Mindegy is.
 Dialogue: 0,0:04:24.63,0:04:26.64,Default,,0,0,0,,Megyek inkább reggelizni.
 Dialogue: 0,0:04:42.40,0:04:45.86,Default,,0,0,0,,Jó reggelt, nézd csak a reggelim.
@@ -66,7 +66,7 @@ Dialogue: 0,0:04:56.71,0:04:58.13,Default,,0,0,0,,Jó étvágyat!
 Dialogue: 0,0:04:59.25,0:05:01.13,Default,,0,0,0,,Elég lesz ennyi reggelire Hana? 
 Dialogue: 0,0:05:01.13,0:05:02.88,Default,,0,0,0,,Igen! 
 Dialogue: 0,0:05:15.35,0:05:16.69,Default,,0,0,0,,Rendben.
-Dialogue: 0,0:05:22.94,0:05:27.70,Default,,0,0,0,,Úgy emlékszem nemrég cseréltünk izzót itt.
+Dialogue: 0,0:05:22.94,0:05:27.70,Default,,0,0,0,,Pedig úgy emlékszem nemrég cseréltünk izzót.
 Dialogue: 0,0:05:27.70,0:05:29.53,Default,,0,0,0,,Mindegy is.
 Dialogue: 0,0:05:30.91,0:05:32.66,Default,,0,0,0,,Majd jövök!
 Dialogue: 0,0:05:32.66,0:05:34.58,Default,,0,0,0,,Érezd jól magad.
@@ -94,7 +94,7 @@ Dialogue: 0,0:07:52.09,0:07:56.30,Default,,0,0,0,,Ez nem egy elhagyatott, kísé
 Dialogue: 0,0:07:55.14,0:07:58.26,Default,,0,0,0,,{\an8}"KÍSÉRTETJÁRTA"\N"VESZÉLYES" 
 Dialogue: 0,0:07:58.26,0:08:01.43,Default,,0,0,0,,Nem hiszem, hogy be kéne oda menni..
 Dialogue: 0,0:08:02.81,0:08:03.94,Default,,0,0,0,,Chiko...
-Dialogue: 0,0:08:11.15,0:08:15.78,Default,,0,0,0,,Jó! Bemegyek megkeresni a kiskölyök kutyáját, {\i1}szeretem{\i0} a kutyákat.
+Dialogue: 0,0:08:11.15,0:08:15.78,Default,,0,0,0,,Jó, bemegyek megkeresni a kutyád, {\i1}szeretem{\i0} a kutyákat.
 Dialogue: 0,0:08:16.87,0:08:18.16,Default,,0,0,0,,Oké! 
 Dialogue: 0,0:08:35.39,0:08:40.43,Default,,0,0,0,,Chiko-chan, Chiko-chan!
 Dialogue: 0,0:08:40.43,0:08:43.27,Default,,0,0,0,,Chiko-chan, merre vagy?
@@ -145,7 +145,7 @@ Dialogue: 0,0:12:50.18,0:12:54.44,Default,,0,0,0,,Navigáció vége. Elérte a c
 Dialogue: 0,0:12:58.19,0:12:59.27,Default,,0,0,0,,Megérkeztünk.
 Dialogue: 0,0:13:01.40,0:13:04.70,Default,,0,0,0,,{\an8}"Miketsudani szentély"
 Dialogue: 0,0:13:02.36,0:13:04.70,Default,,0,0,0,,Miért jöttünk egy szentélyhez?
-Dialogue: 0,0:13:04.70,0:13:07.87,Default,,0,0,0,,Meg akarok látogatni pár helyet, ahol erős spirituális energia van.
+Dialogue: 0,0:13:04.70,0:13:07.87,Default,,0,0,0,,Keresem azokat a helyeket, ahol erős természetfölötti erő van.
 Dialogue: 0,0:13:07.87,0:13:10.49,Default,,0,0,0,,Jól hangzik.
 Dialogue: 0,0:13:10.49,0:13:11.62,Default,,0,0,0,,Aha.
 Dialogue: 0,0:13:13.62,0:13:16.25,Default,,0,0,0,,Sose csináltam még ilyet.
@@ -158,7 +158,7 @@ Dialogue: 0,0:13:51.49,0:13:56.33,Default,,0,0,0,,Csak rákerestem és ezt adta 
 Dialogue: 0,0:13:56.33,0:14:00.54,Default,,0,0,0,,Senki sincs itt, lehet rossz helyen járunk.
 Dialogue: 0,0:14:00.54,0:14:03.46,Default,,0,0,0,,Miko! Erre!
 Dialogue: 0,0:14:06.13,0:14:07.97,Default,,0,0,0,,Annyira menő.
-Dialogue: 0,0:14:10.68,0:14:13.10,Default,,0,0,0,,Csak a legjobbakban tudok reménykedni.
+Dialogue: 0,0:14:10.68,0:14:13.10,Default,,0,0,0,,Most már csak reménykedni tudok.
 Dialogue: 0,0:14:17.39,0:14:20.40,Default,,0,0,0,,Áldozatnak szerinted elég öt jen?
 Dialogue: 0,0:14:20.40,0:14:21.94,Default,,0,0,0,,Szerintem igen.
 Dialogue: 0,0:14:23.23,0:14:25.74,Default,,0,0,0,,Nézzük csak a pénztárcám.
@@ -216,14 +216,14 @@ Dialogue: 0,0:18:50.13,0:18:52.96,Default,,0,0,0,,
 Dialogue: 0,0:18:52.96,0:18:54.88,Default,,0,0,0,,Csináljuk meg a képet.
 Dialogue: 0,0:18:54.88,0:18:57.97,Default,,0,0,0,,Mosolyogj! Mond cheese!
 Dialogue: 0,0:19:02.47,0:19:05.22,Default,,0,0,0,,Tökéletes, látod?
-Dialogue: 0,0:19:06.35,0:19:10.52,Default,,0,0,0,, Olyan misztikusnak néz ki. Igazad volt, tényleg egy erőteljes hely.
+Dialogue: 0,0:19:06.35,0:19:10.52,Default,,0,0,0,,Olyan misztikusnak néz ki. Igazad volt, tényleg egy erőteljes hely.
 Dialogue: 0,0:19:10.52,0:19:13.23,Default,,0,0,0,,Még csak filtert se rakok rá.
 Dialogue: 0,0:19:13.23,0:19:18.24,Default,,0,0,0,,Vagy csak jól fotózom, nem?
 Dialogue: 0,0:19:18.24,0:19:21.61,Default,,0,0,0,,Mi folyik itt? Mi a {\i1}kénköves pokol{\i0} történik itt?
 Dialogue: 0,0:19:21.61,0:19:24.20,Default,,0,0,0,,Innen is csinálok egy képet.
 Dialogue: 0,0:19:25.08,0:19:30.37,Default,,0,0,0,,Megette a nagyobbikat? Ez egy {\i1}isten{\i0}?
 Dialogue: 0,0:19:30.37,0:19:34.71,Default,,0,0,0,,Nem azért, megmentett minket, csak...
-Dialogue: 0,0:19:34.71,0:19:37.84,Default,,0,0,0,,Nem tudom mi történik, és nem tudom mitévő lehetnék.
+Dialogue: 0,0:19:34.71,0:19:37.84,Default,,0,0,0,,Nem tudom mi történik és nem tudom mitévő lehetnék.
 Dialogue: 0,0:19:52.48,0:19:55.27,Default,,0,0,0,,Mos mi lesz?
 Dialogue: 0,0:19:57.28,0:19:58.44,Default,,0,0,0,,
 Dialogue: 0,0:20:17.30,0:20:19.21,Default,,0,0,0,,Mit mondanak?

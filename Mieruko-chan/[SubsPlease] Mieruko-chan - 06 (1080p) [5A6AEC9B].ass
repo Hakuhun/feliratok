@@ -11,9 +11,9 @@ PlayResY: 360
 
 [Aegisub Project Garbage]
 Video Zoom Percent: 0.625000
-Scroll Position: 202
-Active Line: 232
-Video Position: 20445
+Scroll Position: 223
+Active Line: 242
+Video Position: 17868
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -263,3 +263,4 @@ Dialogue: 0,0:23:35.83,0:23:39.25,Default,,0,0,0,,Biztos vagyok, van olyan kép 
 Dialogue: 0,0:23:39.25,0:23:43.13,Default,,0,0,0,,valami félelmetes motoszkál a háttérben.
 Dialogue: 0,0:23:43.13,0:23:45.67,Default,,0,0,0,,Következő, a hetedik rész: "Láttad?"
 Dialogue: 0,0:23:45.67,0:23:49.67,Default,,0,0,0,,Egy szellemjárta helyre kalauzol, ahol nincs helye a turistáknak!
+Dialogue: 0,0:12:19.00,0:12:28.00,Default,,0,0,0,,{\an1\fnBernard MT Condensed\fs16\b1}A feliratot készítette: Haku\Nhakuhun@gmail.com\Nhttps://github.com/Hakuhun/feliratok

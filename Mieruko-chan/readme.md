@@ -4,7 +4,7 @@
 MAL: https://myanimelist.net/anime/48483/Mieruko-chan  
 Video: https://subsplease.org/shows/mieruko-chan/
 
-##ÖSSZES FELIART LETÖLTÉSE: [LETÖLTÉS](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Hakuhun/feliratok/tree/master/Mieruko-chan)
+# ÖSSZES FELIART LETÖLTÉSE: [LETÖLTÉS](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Hakuhun/feliratok/tree/master/Mieruko-chan)
 
 ## Mieruko-chan 01 [Felirat letöltése](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Hakuhun/feliratok/blob/master/Mieruko-chan/%5BSubsPlease%5D%20Mieruko-chan%20-%2001%20(1080p)%20%5B14156DDC%5D.ass)  [Online video](https://indavideo.hu/video/Mieruko-chan_01)
 ## Mieruko-chan 02 [Felirat letöltése](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Hakuhun/feliratok/blob/master/Mieruko-chan/%5BSubsPlease%5D%20Mieruko-chan%20-%2002%20(1080p)%20%5B6875F9AE%5D.ass)  [Online video](https://indavideo.hu/video/Mieruko-chan_02)
